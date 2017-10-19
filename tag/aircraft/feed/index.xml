@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Aircraft</title>
+	<atom:link href="http://www.rahulsrajan.com/tag/aircraft/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.rahulsrajan.com</link>
+	<description></description>
+	<lastBuildDate>Sat, 08 Jul 2017 06:11:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+
+<image>
+	<url>http://www.rahulsrajan.com/wp-content/uploads/2016/09/cropped-IMG_20150920_161044-32x32.jpg</url>
+	<title>Aircraft</title>
+	<link>http://www.rahulsrajan.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Understanding Flight Mechanics: Why Steel birds are not falling from the sky</title>
+		<link>http://www.rahulsrajan.com/2016/08/29/understanding-flight/</link>
+		<comments>http://www.rahulsrajan.com/2016/08/29/understanding-flight/#respond</comments>
+		<pubDate>Mon, 29 Aug 2016 13:45:18 +0000</pubDate>
+		<dc:creator><![CDATA[Rahul S Rajan]]></dc:creator>
+				<category><![CDATA[Aviation]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Aircraft]]></category>
+
+		<guid isPermaLink="false">https://minimalistsconfessions.wordpress.com/?p=1494</guid>
+		<description><![CDATA[<p>The Beautiful Ballet between a Plane and the Air.</p>
+<p>The post <a rel="nofollow" href="http://www.rahulsrajan.com/2016/08/29/understanding-flight/">Understanding Flight Mechanics: Why Steel birds are not falling from the sky</a> appeared first on <a rel="nofollow" href="http://www.rahulsrajan.com"></a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;"><img class="alignnone wp-image-2521" src="http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-121219-300x200.jpeg" alt="Understanding Flight" width="857" height="571" srcset="http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-121219-300x200.jpeg 300w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-121219-768x512.jpeg 768w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-121219-1024x682.jpeg 1024w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-121219.jpeg 1280w" sizes="(max-width: 857px) 100vw, 857px" /></p>
+<p style="text-align: justify;">The day the Wright brothers first flew their flying machine changed the course of history. We now have access to what was once the realm of the birds, no longer bound to our Earthly abode.</p>
+<p style="text-align: justify;">My fascination with Airplanes began when I saw my first Airshow with my dad. I was 12 years old. I remember walking up to the beach and suddenly from the treeline I heard a large whooshing sound and looked up to see a large gray Helicopter flash by. That was just the beginning. There were all kinds of aerobatics from Synchronized flying to Sky-writing by  Military Jets.<span id="more-1494"></span></p>
+<p style="text-align: justify;"><img class="alignnone size-full wp-image-1794" src="https://minimalistsconfessions.files.wordpress.com/2016/08/fighter-jet-jet-aircraft-army-87088.jpeg" alt="fighter-jet-jet-aircraft-army-87088" width="1280" height="848" srcset="http://www.rahulsrajan.com/wp-content/uploads/2016/08/fighter-jet-jet-aircraft-army-87088.jpeg 1280w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/fighter-jet-jet-aircraft-army-87088-300x199.jpeg 300w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/fighter-jet-jet-aircraft-army-87088-768x509.jpeg 768w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/fighter-jet-jet-aircraft-army-87088-1024x678.jpeg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p style="text-align: justify;">At first, what went through my mind, was fear. I was scared by the sound and the speed. Then I realized how cool it was, to be a pilot. I wondered what it would be like to be in one of those machines effortlessly cutting its way across the sky. I will forever remember that day as the day I found my life long love.</p>
+<p style="text-align: justify;">I was curious. I wanted to know how they worked. How does a machine that&#8217;s made of metal, float through the air like that? what does it take to become one of the pilots flying it?</p>
+<p style="text-align: justify;">I tried to learn as much as could about Aircrafts, most of it from watching Television. I remember the day when I set out to make my first helicopter, with my basic understanding of physics. All I knew was I need a propeller spinning very fast to create lift.</p>
+<p style="text-align: justify;">I took apart an old table fan and cleaned it and oiled it up to make it go fast,  removed all the excess weight of the stand and was left with was the motor, the blade, and the cage. I put the assembly on the floor so that the blade faced downward. and I plugged it in. It was spinning fast. It created a lot of wind but did not lift off like I expected it to. I tried giving it a pull, measuring how much lift it produced and how much weight it needed to lose. It weighed a ton. Hardly any lift at all, I was disappointed. I even got electrocuted, trying to plug the old cable into the socket.</p>
+<p style="text-align: justify;">I learned something that day. Big motors, No-No. I needed smaller, lighter  ones. And thus began my journey to take part every toy I had to find motors for my helicopter. I collected propellers from small toys. I would bootstrap designs, but none of them flew. I knew it did not have the power to lift the battery. so my solution was to make it wired. To increase the power, I would add batteries in series. I had burned out the bearing of many motors, they would come to a screeching halt like they are screaming in agony. I was the evil overlord then, torturing my motors until they died.</p>
+<p style="text-align: justify;">As time went on my understanding of the laws of flight grew. I understood why helicopters have a tail rotor and realized how my first helicopter design with a single motor and propeller had failed.  I learned about power to weight ratio and was dismayed that all my previous attempts were based on wrong assumptions.</p>
+<p style="text-align: justify;">The amount of engineering that goes into making an Aircraft. The complex intricacies of Angle of attack, Aerofoil shape, Metacenter, Balance and weight distribution. The more I learned the more I realized I had to learn. It was so deliciously complicated. I didn&#8217;t understand the math behind it, but I understood the principles. How a plane flies, the conditions needed for stable flight and how the Angle of attack comes into play.</p>
+<h4 style="text-align: justify;">How does an Airplane fly</h4>
+<p style="text-align: justify;"><img class="alignnone size-full wp-image-1795" src="https://minimalistsconfessions.files.wordpress.com/2016/08/pexels-photo-90288.jpeg" alt="pexels-photo-90288" width="1280" height="853" srcset="http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90288.jpeg 1280w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90288-300x200.jpeg 300w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90288-768x512.jpeg 768w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90288-1024x682.jpeg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p style="text-align: justify;">So how does a plane fly? To put it plainly.<strong> A plane stays up in the air by pushing the air downwards.</strong> The job of the wings is to deflect the air down, thereby keeping the Airplane up.  You can see it in the Joker smile trail left by the aircraft when it moves through clouds. So the faster you go the more air is deflected and the more lift is created. The Angle of attack— the Angle with which the wing meets the oncoming air— is what makes it possible to deflect the air.</p>
+<p style="text-align: justify;">Wings might look level, but they are not. They are crafted with a specific Angle of attack. Heavy passenger planes like the Airbus A380 needs high Angles to generate more lift and smaller Military jets requires less.</p>
+<p style="text-align: justify;">No matter the speed, <strong>An airplane&#8217;s wing generates lift equal to its weight.</strong> If that wasn&#8217;t the case then the aircraft would not be able to fly straight.</p>
+<p style="text-align: justify;">Then what&#8217;s with all the movies in which the pilot screams &#8220;We need more speed, we are not going to make it.&#8221; Well, that because the term &#8216;lift&#8217; means different things to the Pilot and the Engineer.</p>
+<p style="text-align: justify;"><strong>A pilot is not concerned with the lift an aircraft generates, he is concerned with the angle of attack that gives him that lift.</strong></p>
+<p style="text-align: justify;">Therein lies the dilemma. We think that like a car, a plane moves in the direction it&#8217;s pointing, but that&#8217;s not true. They are ever so slightly pointing up. Landing a plane is same as drifting a car. They are both moving in a different direction than which they are pointing. That is the difference between Lift and Buoyancy (Lowness of Angle of attack). The pilot can make the plane point upwards and still make it fly in a straight line (Mushing flight).</p>
+<p style="text-align: justify;">The wright brother&#8217;s fundamental contribution was the development of the 3-Axis control system, which enabled a pilot to keep the plane in equilibrium. The vertical stabilizer keeps the nose of the plane from swinging from side to side (yaw). And the horizontal stabilizer prevents an up-and-down motion of the nose (Pitch).</p>
+<div id="attachment_1801" style="width: 719px" class="wp-caption alignleft"><img class="size-full wp-image-1801" src="http://www.rahulsrajan.com/wp-content/uploads/2016/08/airplane.gif" alt="Airplane parts Definitions" width="709" height="533" /><p class="wp-caption-text">Airplane parts Definitions</p></div>
+<p style="text-align: justify;">When the pilot pulls back on the stick, the elevator changes position and increases the pitch of the aircraft, thereby increasing the Angle of attack and hence the generating more lift. So what happens if the pitch is increased too much, then a condition called stall occurs and the aircraft falls from the sky.</p>
+<p style="text-align: justify;"><strong>A stall is when an increase in Angle of attack will not result in an increase in lift of the aircraft. </strong> In a stall, not enough air flows over the wing, which increases the drag, the plane loses speed and hence lift. During landings a plane&#8217;s tendency to stall is increased, the pilot must have a sense of lift (flying Instinct) to know when the aircraft is near to the stall condition and act accordingly.</p>
+<p style="text-align: justify;"><strong>The Elevator changes the pitch of the aircraft, but what makes it go up and down is the Throttle.</strong> Increase the throttle and the plane goes up, decrease it and the plane comes down.</p>
+<p style="text-align: justify;">Helicopters are a whole different story. They are classified as the Rotary wing type aircraft. Although they follow the same physics, the way they fly is entirely different. I&#8217;ll leave that for another time.</p>
+<p style="text-align: justify;"><img class="alignnone size-full wp-image-1805" src="https://minimalistsconfessions.files.wordpress.com/2016/08/pexels-photo-90283.jpeg" alt="pexels-photo-90283" width="1280" height="853" srcset="http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90283.jpeg 1280w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90283-300x200.jpeg 300w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90283-768x512.jpeg 768w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90283-1024x682.jpeg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p style="text-align: justify;">I was the kid who tried to make a helicopter out of a table fan. Now, I&#8217;m a Mechanical engineer, but things haven&#8217;t changed much, I still want to build a helicopter. I understand how stupid I was back then, but I&#8217;m glad I was stubborn enough to try. That&#8217;s why I&#8217;m the person I am now. My curiosity has only grown in proportion, to my stubbornness of not accepting things as they are.</p>
+<p style="text-align: justify;">I get goosebumps when I see a pilot deftly making a landing in heavy cross winds. All the conditions that needed to be satisfied to keep that aircraft stable. All the engineering that went into the design, It&#8217;s just beautiful.</p>
+<p style="text-align: justify;">The next time you fly, know the physics of what&#8217;s keeping you in the sky. And enjoy the beautiful Ballet between the Plane and the Air.</p>
+<blockquote><p>&#8216;For once you have tasted flight, you will walk the earth with your  eyes Skyward. For there you have been and there you will long to return.&#8217;  -Leonardo Da Vinci</p></blockquote>
+<hr />
+<p style="text-align: justify;">Connect with me on <a href="https://in.linkedin.com/in/rahulrajanofficial" target="_blank" rel="noopener">LinkedIn</a>, <a href="https://www.facebook.com/rahul.s.rajan1" target="_blank" rel="noopener">Facebook</a>, and <a href="https://www.instagram.com/ra.hul.rajan/" target="_blank" rel="noopener">Instagram</a>. I love to meet new people and tell more stories.</p>
+<p style="text-align: justify;">Read more stories <a href="http://rahulsrajan.com/">Here</a>.</p>
+<p style="text-align: justify;"><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://www.tsection.com/">tsection</a></span></p>
+<p>The post <a rel="nofollow" href="http://www.rahulsrajan.com/2016/08/29/understanding-flight/">Understanding Flight Mechanics: Why Steel birds are not falling from the sky</a> appeared first on <a rel="nofollow" href="http://www.rahulsrajan.com"></a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.rahulsrajan.com/2016/08/29/understanding-flight/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
