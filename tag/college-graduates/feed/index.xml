@@ -9,8 +9,8 @@
 
 <channel>
 	<title>College Graduates</title>
-	<atom:link href="http://www.rahulsrajan.com/tag/college-graduates/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.rahulsrajan.com</link>
+	<atom:link href="https://www.rahulsrajan.com/tag/college-graduates/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.rahulsrajan.com</link>
 	<description></description>
 	<lastBuildDate>Sat, 08 Jul 2017 06:11:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.8.2</generator>
 
 <image>
-	<url>http://www.rahulsrajan.com/wp-content/uploads/2016/09/cropped-IMG_20150920_161044-32x32.jpg</url>
+	<url>https://www.rahulsrajan.com/wp-content/uploads/2016/09/cropped-IMG_20150920_161044-32x32.jpg</url>
 	<title>College Graduates</title>
-	<link>http://www.rahulsrajan.com</link>
+	<link>https://www.rahulsrajan.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>College Graduates and Educated lions</title>
-		<link>http://www.rahulsrajan.com/2016/05/05/educated-lions/</link>
-		<comments>http://www.rahulsrajan.com/2016/05/05/educated-lions/#respond</comments>
+		<link>https://www.rahulsrajan.com/2016/05/05/educated-lions/</link>
+		<comments>https://www.rahulsrajan.com/2016/05/05/educated-lions/#respond</comments>
 		<pubDate>Thu, 05 May 2016 11:34:26 +0000</pubDate>
 		<dc:creator><![CDATA[Rahul S Rajan]]></dc:creator>
 				<category><![CDATA[Blog]]></category>
@@ -36,10 +36,8 @@
 		<category><![CDATA[College Graduates]]></category>
 
 		<guid isPermaLink="false">https://minimalistsconfessions.wordpress.com/2016/05/05/first-blog-post/</guid>
-		<description><![CDATA[<p>How the Lions of the Concrete Jungle compare with the wild ones.</p>
-<p>The post <a rel="nofollow" href="http://www.rahulsrajan.com/2016/05/05/educated-lions/">College Graduates and Educated lions</a> appeared first on <a rel="nofollow" href="http://www.rahulsrajan.com"></a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p><img class="alignnone size-full wp-image-88" src="http://www.rahulsrajan.com/wp-content/uploads/2016/05/download.png" alt="download" width="700" height="288" srcset="http://www.rahulsrajan.com/wp-content/uploads/2016/05/download.png 700w, http://www.rahulsrajan.com/wp-content/uploads/2016/05/download-300x123.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>
+		<description><![CDATA[How the Lions of the Concrete Jungle compare with the wild ones.]]></description>
+				<content:encoded><![CDATA[<p><img class="alignnone size-full wp-image-88" src="http://www.rahulsrajan.com/wp-content/uploads/2016/05/download.png" alt="download" width="700" height="288" srcset="https://www.rahulsrajan.com/wp-content/uploads/2016/05/download.png 700w, https://www.rahulsrajan.com/wp-content/uploads/2016/05/download-300x123.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></p>
 <p style="text-align: justify;">Recently I read about a captive lion reintroduction program called &#8216;Walking with Lions&#8217;. The project focuses on releasing captive born African lions into the wild after supposedly training them to adapt to their natural setting. They have a system where the release is conducted in phases like reintroduction, rehabilitation etc.</p>
 <p style="text-align: justify;">It sounds good on paper, but in reality it is not practical. The more we intervene with the way of life of these animals the more we destroy their natural instincts. These centers are Advertised as &#8216;wildlife encounters&#8217; programs and typically charge tourists and paying volunteers to pet, feed and walk with hand-raised and so-called tame lions.<span id="more-28"></span></p>
 <p style="text-align: justify;">The word &#8216;Educated&#8217; in this context describes a &#8216;Trained&#8217; Lion. The way humans want them. we have a similar situation happening in our everyday lives, our children.</p>
@@ -58,9 +56,8 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>The post <a rel="nofollow" href="http://www.rahulsrajan.com/2016/05/05/educated-lions/">College Graduates and Educated lions</a> appeared first on <a rel="nofollow" href="http://www.rahulsrajan.com"></a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.rahulsrajan.com/2016/05/05/educated-lions/feed/</wfw:commentRss>
+			<wfw:commentRss>https://www.rahulsrajan.com/2016/05/05/educated-lions/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

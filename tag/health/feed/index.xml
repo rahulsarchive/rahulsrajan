@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Health</title>
-	<atom:link href="http://www.rahulsrajan.com/tag/health/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.rahulsrajan.com</link>
+	<atom:link href="https://www.rahulsrajan.com/tag/health/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.rahulsrajan.com</link>
 	<description></description>
 	<lastBuildDate>Sat, 08 Jul 2017 06:11:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.8.2</generator>
 
 <image>
-	<url>http://www.rahulsrajan.com/wp-content/uploads/2016/09/cropped-IMG_20150920_161044-32x32.jpg</url>
+	<url>https://www.rahulsrajan.com/wp-content/uploads/2016/09/cropped-IMG_20150920_161044-32x32.jpg</url>
 	<title>Health</title>
-	<link>http://www.rahulsrajan.com</link>
+	<link>https://www.rahulsrajan.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>How not to feed your 20-year-old​</title>
-		<link>http://www.rahulsrajan.com/2016/08/10/acid-reflux/</link>
-		<comments>http://www.rahulsrajan.com/2016/08/10/acid-reflux/#respond</comments>
+		<link>https://www.rahulsrajan.com/2016/08/10/acid-reflux/</link>
+		<comments>https://www.rahulsrajan.com/2016/08/10/acid-reflux/#respond</comments>
 		<pubDate>Wed, 10 Aug 2016 18:00:47 +0000</pubDate>
 		<dc:creator><![CDATA[Rahul S Rajan]]></dc:creator>
 				<category><![CDATA[Blog]]></category>
@@ -38,10 +38,8 @@
 		<category><![CDATA[Health]]></category>
 
 		<guid isPermaLink="false">https://minimalistsconfessions.wordpress.com/?p=1092</guid>
-		<description><![CDATA[<p>What I learned on my journey down Reflux land.</p>
-<p>The post <a rel="nofollow" href="http://www.rahulsrajan.com/2016/08/10/acid-reflux/">How not to feed your 20-year-old​</a> appeared first on <a rel="nofollow" href="http://www.rahulsrajan.com"></a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<div id="attachment_1189" style="width: 1290px" class="wp-caption alignnone"><img class="wp-image-1189 size-full" src="http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-70497.jpeg" alt="Acid Reflux foods" width="1280" height="851" srcset="http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-70497.jpeg 1280w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-70497-300x199.jpeg 300w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-70497-768x511.jpeg 768w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-70497-1024x681.jpeg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /><p class="wp-caption-text">How not to feed your 20 year old</p></div>
+		<description><![CDATA[What I learned on my journey down Reflux land.]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1189" style="width: 1290px" class="wp-caption alignnone"><img class="wp-image-1189 size-full" src="http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-70497.jpeg" alt="Acid Reflux foods" width="1280" height="851" srcset="https://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-70497.jpeg 1280w, https://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-70497-300x199.jpeg 300w, https://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-70497-768x511.jpeg 768w, https://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-70497-1024x681.jpeg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /><p class="wp-caption-text">How not to feed your 20 year old</p></div>
 <p>I&#8217;m like the majority of 20 somethings when it comes to food habits, which is &#8216;<strong>Eat whatever I like, whenever I like</strong>&#8216;.</p>
 <p>We quarter-lifers are under a lot of pressure ( college graduation, jobs, starting a family). We find solace and comfort in the foods we eat. They are like therapy.</p>
 <p>You can&#8217;t blame us for having some extra therapy, we need it. It&#8217;s no wonder the majority of people today are obese or on their way there. I was following the same path.<span id="more-1092"></span></p>
@@ -59,9 +57,8 @@
 <hr />
 <p>&nbsp;</p>
 <p>You can connect with me on <a href="https://in.linkedin.com/in/rahulrajanofficial" target="_blank">LinkedIn</a>, <a href="https://www.facebook.com/rahul.s.rajan1" target="_blank">Facebook</a>,  and <a href="https://www.instagram.com/rahul.rajan1/" target="_blank">Instagram</a>. I hope to meet new people and tell more stories.</p>
-<p>The post <a rel="nofollow" href="http://www.rahulsrajan.com/2016/08/10/acid-reflux/">How not to feed your 20-year-old​</a> appeared first on <a rel="nofollow" href="http://www.rahulsrajan.com"></a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.rahulsrajan.com/2016/08/10/acid-reflux/feed/</wfw:commentRss>
+			<wfw:commentRss>https://www.rahulsrajan.com/2016/08/10/acid-reflux/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

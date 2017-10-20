@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Aviation</title>
-	<atom:link href="http://www.rahulsrajan.com/category/aviation/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.rahulsrajan.com</link>
+	<atom:link href="https://www.rahulsrajan.com/category/aviation/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.rahulsrajan.com</link>
 	<description></description>
 	<lastBuildDate>Sat, 08 Jul 2017 06:11:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.8.2</generator>
 
 <image>
-	<url>http://www.rahulsrajan.com/wp-content/uploads/2016/09/cropped-IMG_20150920_161044-32x32.jpg</url>
+	<url>https://www.rahulsrajan.com/wp-content/uploads/2016/09/cropped-IMG_20150920_161044-32x32.jpg</url>
 	<title>Aviation</title>
-	<link>http://www.rahulsrajan.com</link>
+	<link>https://www.rahulsrajan.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Understanding Flight Mechanics: Why Steel birds are not falling from the sky</title>
-		<link>http://www.rahulsrajan.com/2016/08/29/understanding-flight/</link>
-		<comments>http://www.rahulsrajan.com/2016/08/29/understanding-flight/#respond</comments>
+		<link>https://www.rahulsrajan.com/2016/08/29/understanding-flight/</link>
+		<comments>https://www.rahulsrajan.com/2016/08/29/understanding-flight/#respond</comments>
 		<pubDate>Mon, 29 Aug 2016 13:45:18 +0000</pubDate>
 		<dc:creator><![CDATA[Rahul S Rajan]]></dc:creator>
 				<category><![CDATA[Aviation]]></category>
@@ -36,13 +36,11 @@
 		<category><![CDATA[Aircraft]]></category>
 
 		<guid isPermaLink="false">https://minimalistsconfessions.wordpress.com/?p=1494</guid>
-		<description><![CDATA[<p>The Beautiful Ballet between a Plane and the Air.</p>
-<p>The post <a rel="nofollow" href="http://www.rahulsrajan.com/2016/08/29/understanding-flight/">Understanding Flight Mechanics: Why Steel birds are not falling from the sky</a> appeared first on <a rel="nofollow" href="http://www.rahulsrajan.com"></a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p style="text-align: justify;"><img class="alignnone wp-image-2521" src="http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-121219-300x200.jpeg" alt="Understanding Flight" width="857" height="571" srcset="http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-121219-300x200.jpeg 300w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-121219-768x512.jpeg 768w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-121219-1024x682.jpeg 1024w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-121219.jpeg 1280w" sizes="(max-width: 857px) 100vw, 857px" /></p>
+		<description><![CDATA[The Beautiful Ballet between a Plane and the Air.]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;"><img class="alignnone wp-image-2521" src="http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-121219-300x200.jpeg" alt="Understanding Flight" width="857" height="571" srcset="https://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-121219-300x200.jpeg 300w, https://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-121219-768x512.jpeg 768w, https://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-121219-1024x682.jpeg 1024w, https://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-121219.jpeg 1280w" sizes="(max-width: 857px) 100vw, 857px" /></p>
 <p style="text-align: justify;">The day the Wright brothers first flew their flying machine changed the course of history. We now have access to what was once the realm of the birds, no longer bound to our Earthly abode.</p>
 <p style="text-align: justify;">My fascination with Airplanes began when I saw my first Airshow with my dad. I was 12 years old. I remember walking up to the beach and suddenly from the treeline I heard a large whooshing sound and looked up to see a large gray Helicopter flash by. That was just the beginning. There were all kinds of aerobatics from Synchronized flying to Sky-writing by  Military Jets.<span id="more-1494"></span></p>
-<p style="text-align: justify;"><img class="alignnone size-full wp-image-1794" src="https://minimalistsconfessions.files.wordpress.com/2016/08/fighter-jet-jet-aircraft-army-87088.jpeg" alt="fighter-jet-jet-aircraft-army-87088" width="1280" height="848" srcset="http://www.rahulsrajan.com/wp-content/uploads/2016/08/fighter-jet-jet-aircraft-army-87088.jpeg 1280w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/fighter-jet-jet-aircraft-army-87088-300x199.jpeg 300w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/fighter-jet-jet-aircraft-army-87088-768x509.jpeg 768w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/fighter-jet-jet-aircraft-army-87088-1024x678.jpeg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p style="text-align: justify;"><img class="alignnone size-full wp-image-1794" src="https://minimalistsconfessions.files.wordpress.com/2016/08/fighter-jet-jet-aircraft-army-87088.jpeg" alt="fighter-jet-jet-aircraft-army-87088" width="1280" height="848" srcset="https://www.rahulsrajan.com/wp-content/uploads/2016/08/fighter-jet-jet-aircraft-army-87088.jpeg 1280w, https://www.rahulsrajan.com/wp-content/uploads/2016/08/fighter-jet-jet-aircraft-army-87088-300x199.jpeg 300w, https://www.rahulsrajan.com/wp-content/uploads/2016/08/fighter-jet-jet-aircraft-army-87088-768x509.jpeg 768w, https://www.rahulsrajan.com/wp-content/uploads/2016/08/fighter-jet-jet-aircraft-army-87088-1024x678.jpeg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
 <p style="text-align: justify;">At first, what went through my mind, was fear. I was scared by the sound and the speed. Then I realized how cool it was, to be a pilot. I wondered what it would be like to be in one of those machines effortlessly cutting its way across the sky. I will forever remember that day as the day I found my life long love.</p>
 <p style="text-align: justify;">I was curious. I wanted to know how they worked. How does a machine that&#8217;s made of metal, float through the air like that? what does it take to become one of the pilots flying it?</p>
 <p style="text-align: justify;">I tried to learn as much as could about Aircrafts, most of it from watching Television. I remember the day when I set out to make my first helicopter, with my basic understanding of physics. All I knew was I need a propeller spinning very fast to create lift.</p>
@@ -51,7 +49,7 @@
 <p style="text-align: justify;">As time went on my understanding of the laws of flight grew. I understood why helicopters have a tail rotor and realized how my first helicopter design with a single motor and propeller had failed.  I learned about power to weight ratio and was dismayed that all my previous attempts were based on wrong assumptions.</p>
 <p style="text-align: justify;">The amount of engineering that goes into making an Aircraft. The complex intricacies of Angle of attack, Aerofoil shape, Metacenter, Balance and weight distribution. The more I learned the more I realized I had to learn. It was so deliciously complicated. I didn&#8217;t understand the math behind it, but I understood the principles. How a plane flies, the conditions needed for stable flight and how the Angle of attack comes into play.</p>
 <h4 style="text-align: justify;">How does an Airplane fly</h4>
-<p style="text-align: justify;"><img class="alignnone size-full wp-image-1795" src="https://minimalistsconfessions.files.wordpress.com/2016/08/pexels-photo-90288.jpeg" alt="pexels-photo-90288" width="1280" height="853" srcset="http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90288.jpeg 1280w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90288-300x200.jpeg 300w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90288-768x512.jpeg 768w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90288-1024x682.jpeg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p style="text-align: justify;"><img class="alignnone size-full wp-image-1795" src="https://minimalistsconfessions.files.wordpress.com/2016/08/pexels-photo-90288.jpeg" alt="pexels-photo-90288" width="1280" height="853" srcset="https://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90288.jpeg 1280w, https://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90288-300x200.jpeg 300w, https://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90288-768x512.jpeg 768w, https://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90288-1024x682.jpeg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
 <p style="text-align: justify;">So how does a plane fly? To put it plainly.<strong> A plane stays up in the air by pushing the air downwards.</strong> The job of the wings is to deflect the air down, thereby keeping the Airplane up.  You can see it in the Joker smile trail left by the aircraft when it moves through clouds. So the faster you go the more air is deflected and the more lift is created. The Angle of attack— the Angle with which the wing meets the oncoming air— is what makes it possible to deflect the air.</p>
 <p style="text-align: justify;">Wings might look level, but they are not. They are crafted with a specific Angle of attack. Heavy passenger planes like the Airbus A380 needs high Angles to generate more lift and smaller Military jets requires less.</p>
 <p style="text-align: justify;">No matter the speed, <strong>An airplane&#8217;s wing generates lift equal to its weight.</strong> If that wasn&#8217;t the case then the aircraft would not be able to fly straight.</p>
@@ -64,7 +62,7 @@
 <p style="text-align: justify;"><strong>A stall is when an increase in Angle of attack will not result in an increase in lift of the aircraft. </strong> In a stall, not enough air flows over the wing, which increases the drag, the plane loses speed and hence lift. During landings a plane&#8217;s tendency to stall is increased, the pilot must have a sense of lift (flying Instinct) to know when the aircraft is near to the stall condition and act accordingly.</p>
 <p style="text-align: justify;"><strong>The Elevator changes the pitch of the aircraft, but what makes it go up and down is the Throttle.</strong> Increase the throttle and the plane goes up, decrease it and the plane comes down.</p>
 <p style="text-align: justify;">Helicopters are a whole different story. They are classified as the Rotary wing type aircraft. Although they follow the same physics, the way they fly is entirely different. I&#8217;ll leave that for another time.</p>
-<p style="text-align: justify;"><img class="alignnone size-full wp-image-1805" src="https://minimalistsconfessions.files.wordpress.com/2016/08/pexels-photo-90283.jpeg" alt="pexels-photo-90283" width="1280" height="853" srcset="http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90283.jpeg 1280w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90283-300x200.jpeg 300w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90283-768x512.jpeg 768w, http://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90283-1024x682.jpeg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p style="text-align: justify;"><img class="alignnone size-full wp-image-1805" src="https://minimalistsconfessions.files.wordpress.com/2016/08/pexels-photo-90283.jpeg" alt="pexels-photo-90283" width="1280" height="853" srcset="https://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90283.jpeg 1280w, https://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90283-300x200.jpeg 300w, https://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90283-768x512.jpeg 768w, https://www.rahulsrajan.com/wp-content/uploads/2016/08/pexels-photo-90283-1024x682.jpeg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
 <p style="text-align: justify;">I was the kid who tried to make a helicopter out of a table fan. Now, I&#8217;m a Mechanical engineer, but things haven&#8217;t changed much, I still want to build a helicopter. I understand how stupid I was back then, but I&#8217;m glad I was stubborn enough to try. That&#8217;s why I&#8217;m the person I am now. My curiosity has only grown in proportion, to my stubbornness of not accepting things as they are.</p>
 <p style="text-align: justify;">I get goosebumps when I see a pilot deftly making a landing in heavy cross winds. All the conditions that needed to be satisfied to keep that aircraft stable. All the engineering that went into the design, It&#8217;s just beautiful.</p>
 <p style="text-align: justify;">The next time you fly, know the physics of what&#8217;s keeping you in the sky. And enjoy the beautiful Ballet between the Plane and the Air.</p>
@@ -73,9 +71,8 @@
 <p style="text-align: justify;">Connect with me on <a href="https://in.linkedin.com/in/rahulrajanofficial" target="_blank" rel="noopener">LinkedIn</a>, <a href="https://www.facebook.com/rahul.s.rajan1" target="_blank" rel="noopener">Facebook</a>, and <a href="https://www.instagram.com/ra.hul.rajan/" target="_blank" rel="noopener">Instagram</a>. I love to meet new people and tell more stories.</p>
 <p style="text-align: justify;">Read more stories <a href="http://rahulsrajan.com/">Here</a>.</p>
 <p style="text-align: justify;"><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://www.tsection.com/">tsection</a></span></p>
-<p>The post <a rel="nofollow" href="http://www.rahulsrajan.com/2016/08/29/understanding-flight/">Understanding Flight Mechanics: Why Steel birds are not falling from the sky</a> appeared first on <a rel="nofollow" href="http://www.rahulsrajan.com"></a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.rahulsrajan.com/2016/08/29/understanding-flight/feed/</wfw:commentRss>
+			<wfw:commentRss>https://www.rahulsrajan.com/2016/08/29/understanding-flight/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

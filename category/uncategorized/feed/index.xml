@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized</title>
-	<atom:link href="http://www.rahulsrajan.com/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.rahulsrajan.com</link>
+	<atom:link href="https://www.rahulsrajan.com/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.rahulsrajan.com</link>
 	<description></description>
 	<lastBuildDate>Sat, 08 Jul 2017 06:11:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,25 +19,23 @@
 	<generator>https://wordpress.org/?v=4.8.2</generator>
 
 <image>
-	<url>http://www.rahulsrajan.com/wp-content/uploads/2016/09/cropped-IMG_20150920_161044-32x32.jpg</url>
+	<url>https://www.rahulsrajan.com/wp-content/uploads/2016/09/cropped-IMG_20150920_161044-32x32.jpg</url>
 	<title>Uncategorized</title>
-	<link>http://www.rahulsrajan.com</link>
+	<link>https://www.rahulsrajan.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Crossroads of Life</title>
-		<link>http://www.rahulsrajan.com/2016/09/12/crossroads-of-life/</link>
-		<comments>http://www.rahulsrajan.com/2016/09/12/crossroads-of-life/#respond</comments>
+		<link>https://www.rahulsrajan.com/2016/09/12/crossroads-of-life/</link>
+		<comments>https://www.rahulsrajan.com/2016/09/12/crossroads-of-life/#respond</comments>
 		<pubDate>Mon, 12 Sep 2016 14:17:59 +0000</pubDate>
 		<dc:creator><![CDATA[Rahul S Rajan]]></dc:creator>
 				<category><![CDATA[Blog]]></category>
 		<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">https://minimalistsconfessions.wordpress.com/?p=1686</guid>
-		<description><![CDATA[<p>I know not what road to take, for I&#8217;m not sure what lies beyond the bend. My thoughts travel both ways, but they don&#8217;t reach far. I ask weary travellers who have travelled each path, each said the path to be just as fair, For some did not choose the path. And others followed in ... <span class="more"><a class="more-link" href="http://www.rahulsrajan.com/2016/09/12/crossroads-of-life/">[Read more...]</a></span></p>
-<p>The post <a rel="nofollow" href="http://www.rahulsrajan.com/2016/09/12/crossroads-of-life/">Crossroads of Life</a> appeared first on <a rel="nofollow" href="http://www.rahulsrajan.com"></a>.</p>
-]]></description>
+		<description><![CDATA[I know not what road to take, for I&#8217;m not sure what lies beyond the bend. My thoughts travel both ways, but they don&#8217;t reach far. I ask weary travellers who have travelled each path, each said the path to be just as fair, For some did not choose the path. And others followed in ... <span class="more"><a class="more-link" href="https://www.rahulsrajan.com/2016/09/12/crossroads-of-life/">[Read more...]</a></span>]]></description>
 				<content:encoded><![CDATA[<blockquote>
 <p style="text-align: center;">I know not what road to take,<br />
 for I&#8217;m not sure what lies beyond the bend.<br />
@@ -56,9 +54,8 @@ I think too much of the outcome, yet I forget to begin.</p>
 </blockquote>
 <hr />
 <p style="text-align: left;">My First attempt at writing a poem, explaining my current situation. Inspired by &#8216;<strong>The Road Not Taken</strong>&#8216;.</p>
-<p>The post <a rel="nofollow" href="http://www.rahulsrajan.com/2016/09/12/crossroads-of-life/">Crossroads of Life</a> appeared first on <a rel="nofollow" href="http://www.rahulsrajan.com"></a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.rahulsrajan.com/2016/09/12/crossroads-of-life/feed/</wfw:commentRss>
+			<wfw:commentRss>https://www.rahulsrajan.com/2016/09/12/crossroads-of-life/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>butterfly effect</title>
-	<atom:link href="http://www.rahulsrajan.com/tag/butterfly-effect/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.rahulsrajan.com</link>
+	<atom:link href="https://www.rahulsrajan.com/tag/butterfly-effect/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.rahulsrajan.com</link>
 	<description></description>
 	<lastBuildDate>Sat, 08 Jul 2017 06:11:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.8.2</generator>
 
 <image>
-	<url>http://www.rahulsrajan.com/wp-content/uploads/2016/09/cropped-IMG_20150920_161044-32x32.jpg</url>
+	<url>https://www.rahulsrajan.com/wp-content/uploads/2016/09/cropped-IMG_20150920_161044-32x32.jpg</url>
 	<title>butterfly effect</title>
-	<link>http://www.rahulsrajan.com</link>
+	<link>https://www.rahulsrajan.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>How to change the world: One Butterfly at a Time.</title>
-		<link>http://www.rahulsrajan.com/2016/09/30/butterfly-effect/</link>
-		<comments>http://www.rahulsrajan.com/2016/09/30/butterfly-effect/#respond</comments>
+		<link>https://www.rahulsrajan.com/2016/09/30/butterfly-effect/</link>
+		<comments>https://www.rahulsrajan.com/2016/09/30/butterfly-effect/#respond</comments>
 		<pubDate>Fri, 30 Sep 2016 06:04:10 +0000</pubDate>
 		<dc:creator><![CDATA[Rahul S Rajan]]></dc:creator>
 				<category><![CDATA[Lifestyle]]></category>
@@ -36,10 +36,8 @@
 		<category><![CDATA[butterfly effect]]></category>
 
 		<guid isPermaLink="false">http://www.rahulsrajan.com/?p=2545</guid>
-		<description><![CDATA[<p>Can a butterfly flapping its wings in the Amazon create a hurricane in Europe a few weeks later? This is the concept of The Butterfly effect—so named as the computer model that led to its discovery resembles a butterfly—discovered by Edward Lorentz. Lorentz  ran weather models with present atmospheric conditions to arrive at the values for tomorrow, ... <span class="more"><a class="more-link" href="http://www.rahulsrajan.com/2016/09/30/butterfly-effect/">[Read more...]</a></span></p>
-<p>The post <a rel="nofollow" href="http://www.rahulsrajan.com/2016/09/30/butterfly-effect/">How to change the world: One Butterfly at a Time.</a> appeared first on <a rel="nofollow" href="http://www.rahulsrajan.com"></a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p><img class="wp-image-2550 aligncenter" src="http://www.rahulsrajan.com/wp-content/uploads/2016/09/abstract-butterfly-vector-wallpaper-1280x720-300x169.jpg" alt="Butterfly Effect" width="591" height="333" srcset="http://www.rahulsrajan.com/wp-content/uploads/2016/09/abstract-butterfly-vector-wallpaper-1280x720-300x169.jpg 300w, http://www.rahulsrajan.com/wp-content/uploads/2016/09/abstract-butterfly-vector-wallpaper-1280x720-768x432.jpg 768w, http://www.rahulsrajan.com/wp-content/uploads/2016/09/abstract-butterfly-vector-wallpaper-1280x720-1024x576.jpg 1024w, http://www.rahulsrajan.com/wp-content/uploads/2016/09/abstract-butterfly-vector-wallpaper-1280x720.jpg 1280w" sizes="(max-width: 591px) 100vw, 591px" /></p>
+		<description><![CDATA[Can a butterfly flapping its wings in the Amazon create a hurricane in Europe a few weeks later? This is the concept of The Butterfly effect—so named as the computer model that led to its discovery resembles a butterfly—discovered by Edward Lorentz. Lorentz  ran weather models with present atmospheric conditions to arrive at the values for tomorrow, ... <span class="more"><a class="more-link" href="https://www.rahulsrajan.com/2016/09/30/butterfly-effect/">[Read more...]</a></span>]]></description>
+				<content:encoded><![CDATA[<p><img class="wp-image-2550 aligncenter" src="http://www.rahulsrajan.com/wp-content/uploads/2016/09/abstract-butterfly-vector-wallpaper-1280x720-300x169.jpg" alt="Butterfly Effect" width="591" height="333" srcset="https://www.rahulsrajan.com/wp-content/uploads/2016/09/abstract-butterfly-vector-wallpaper-1280x720-300x169.jpg 300w, https://www.rahulsrajan.com/wp-content/uploads/2016/09/abstract-butterfly-vector-wallpaper-1280x720-768x432.jpg 768w, https://www.rahulsrajan.com/wp-content/uploads/2016/09/abstract-butterfly-vector-wallpaper-1280x720-1024x576.jpg 1024w, https://www.rahulsrajan.com/wp-content/uploads/2016/09/abstract-butterfly-vector-wallpaper-1280x720.jpg 1280w" sizes="(max-width: 591px) 100vw, 591px" /></p>
 <p>Can a butterfly flapping its wings in the Amazon create a hurricane in Europe a few weeks later? This is the concept of The Butterfly effect—so named as the computer model that led to its discovery resembles a butterfly—discovered by <strong>Edward Lorentz</strong>. Lorentz  ran weather models with present atmospheric conditions to arrive at the values for tomorrow, he then put the resulting values back in to obtain the conditions of the next day and so on. After many iterations, he found a large variation in the result from the actual condition. On closer inspection, it was observed that every time the new values were put back into the system there was a seemingly small roundoff error at the sixteenth decimal place. This small change was enough to produce a vast difference in the results.<span id="more-2545"></span></p>
 <p>The butterfly effect refers to the idea that a butterfly&#8217;s wings might create tiny changes in the atmospheric pressure which combined with other compounding elements may lead to, dissipate or alter the path of a tornado in another location. The butterfly does not power the tornado, it merely acts as an initial perturbation for the system. Had the butterfly not flapped its wings, the trajectory of the systems might have been vastly different.</p>
 <p><strong>Scientific jargon</strong>: In chaos theory, the butterfly effect is the sensitive dependence on initial conditions in which a small change in one state of a deterministic nonlinear system can result in large differences in a later state.</p>
@@ -65,9 +63,8 @@
 <p>&nbsp;</p>
 <hr />
 <p>Follow more stories <a href="http://www.rahulsrajan.com/blog/" target="_blank">Here</a></p>
-<p>The post <a rel="nofollow" href="http://www.rahulsrajan.com/2016/09/30/butterfly-effect/">How to change the world: One Butterfly at a Time.</a> appeared first on <a rel="nofollow" href="http://www.rahulsrajan.com"></a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.rahulsrajan.com/2016/09/30/butterfly-effect/feed/</wfw:commentRss>
+			<wfw:commentRss>https://www.rahulsrajan.com/2016/09/30/butterfly-effect/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
