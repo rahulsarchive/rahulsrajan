@@ -12,11 +12,11 @@
 	<atom:link href="https://www.rahulsrajan.com/tag/books/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.rahulsrajan.com</link>
 	<description></description>
-	<lastBuildDate>Mon, 19 Feb 2018 17:57:17 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Oct 2018 10:18:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.5</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 
 <image>
 	<url>https://www.rahulsrajan.com/wp-content/uploads/2016/09/cropped-IMG_20150920_161044-32x32.jpg</url>
@@ -31,7 +31,8 @@
 		<comments>https://www.rahulsrajan.com/2016/10/16/life-changing-books/#respond</comments>
 		<pubDate>Sun, 16 Oct 2016 05:10:12 +0000</pubDate>
 		<dc:creator><![CDATA[Rahul S Rajan]]></dc:creator>
-				<category><![CDATA[Lifestyle]]></category>
+				<category><![CDATA[NOTES]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[Books]]></category>
 
 		<guid isPermaLink="false">http://www.rahulsrajan.com/?p=2636</guid>
