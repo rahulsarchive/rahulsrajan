@@ -5,14 +5,16 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
 
 <channel>
 	<title>writing</title>
 	<atom:link href="https://www.rahulsrajan.com/tag/writing/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.rahulsrajan.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 05 Oct 2018 10:18:27 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 06 Oct 2018 11:15:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -31,12 +33,14 @@
 		<comments>https://www.rahulsrajan.com/2016/10/24/ways-to-improve-your-writing/#comments</comments>
 		<pubDate>Mon, 24 Oct 2016 06:08:44 +0000</pubDate>
 		<dc:creator><![CDATA[Rahul S Rajan]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[writing]]></category>
 
 		<guid isPermaLink="false">http://www.rahulsrajan.com/?p=2656</guid>
 		<description><![CDATA[You may not realize it but you are already a writer. We write every day from Emails and chats to work related reports. We might not be paying much attention to how we write them, but these words represent who we are. What you write is often the only chance you&#8217;ll get to present yourself ... <span class="more"><a class="more-link" href="https://www.rahulsrajan.com/2016/10/24/ways-to-improve-your-writing/">[Read more...]</a></span>]]></description>
-				<content:encoded><![CDATA[<p><img class="alignnone size-full wp-image-2677" src="http://www.rahulsrajan.com/wp-content/uploads/2016/10/Improve-your-writing.jpg" alt="improve-your-writing" width="1280" height="915" srcset="https://www.rahulsrajan.com/wp-content/uploads/2016/10/Improve-your-writing.jpg 1280w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/Improve-your-writing-300x214.jpg 300w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/Improve-your-writing-768x549.jpg 768w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/Improve-your-writing-1024x732.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+				<content:encoded><![CDATA[<p><img data-attachment-id="2677" data-permalink="https://www.rahulsrajan.com/2016/10/24/ways-to-improve-your-writing/improve-your-writing/" data-orig-file="https://www.rahulsrajan.com/wp-content/uploads/2016/10/Improve-your-writing.jpg" data-orig-size="1280,915" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="improve-your-writing" data-image-description="&lt;p&gt;ways to improve your writing&lt;/p&gt;
+" data-medium-file="https://www.rahulsrajan.com/wp-content/uploads/2016/10/Improve-your-writing-300x214.jpg" data-large-file="https://www.rahulsrajan.com/wp-content/uploads/2016/10/Improve-your-writing-1024x732.jpg" class="alignnone size-full wp-image-2677" src="http://www.rahulsrajan.com/wp-content/uploads/2016/10/Improve-your-writing.jpg" alt="improve-your-writing" width="1280" height="915" srcset="https://www.rahulsrajan.com/wp-content/uploads/2016/10/Improve-your-writing.jpg 1280w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/Improve-your-writing-300x214.jpg 300w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/Improve-your-writing-768x549.jpg 768w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/Improve-your-writing-1024x732.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
 <p>You may not realize it but you are already a writer. We write every day from Emails and chats to work related reports. We might not be paying much attention to how we write them, but these words represent who we are.</p>
 <p>What you write is often the only chance you&#8217;ll get to present yourself to someone whose business or money or good will you need. If you write with broken English and cluttered sentences, you won&#8217;t be leaving a good impression. This does not imply that you use pompous words and extravagant adjectives to make you seem important—the corporate mindset—Writing clear sentences should be the aim.<span id="more-2656"></span></p>
 <h2>Why become a polished Writer?</h2>
@@ -81,7 +85,8 @@
 <p>Come Find me on <a href="http://facebook.com/meetrahulrajan">Facebook</a>, <a href="http://www.instagram.com/ra.hul.rajan/">Instagram</a>, <a href="https://in.linkedin.com/in/rahulsrajan">LinkedIn</a>.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-]]></content:encoded>
+<div id="socialButtonOnPage" class="leftSocialButtonOnPage"><div class="csbwfs-sbutton-post"><div id="fb-p" class="csbwfs-fb"><a href="javascript:"  onclick="window.open('//www.facebook.com/sharer/sharer.php?u=https://www.rahulsrajan.com/tag/writing/feed/','Facebook','width=800,height=300');return false;"
+   target="_blank" title="Share On Facebook" ><i class="csbwfs_facebook"></i></a></div></div><div class="csbwfs-sbutton-post"><div id="tw-p" class="csbwfs-tw"><a href="javascript:" onclick="window.open('//twitter.com/share?url=https://www.rahulsrajan.com/tag/writing/feed/&text=Blog%20Archives&nbsp;&nbsp;', '_blank', 'width=800,height=300')" title="Share On Twitter" ><i class="csbwfs_twitter"></i></a></div></div><div class="csbwfs-sbutton-post"><div id="gp-p" class="csbwfs-gp"><a href="javascript:"  onclick="javascript:window.open('//plus.google.com/share?url=https://www.rahulsrajan.com/tag/writing/feed/','','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=800');return false;" title="Share On Google Plus" ><i class="csbwfs_plus"></i></a></div></div><div class="csbwfs-sbutton-post"><div id="li-p" class="csbwfs-li"><a href="javascript:" onclick="javascript:window.open('//www.linkedin.com/shareArticle?mini=true&url=https://www.rahulsrajan.com/tag/writing/feed/','', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" title="Share On Linkedin" ><i class="csbwfs_linkedin"></i></a></div></div></div>]]></content:encoded>
 			<wfw:commentRss>https://www.rahulsrajan.com/2016/10/24/ways-to-improve-your-writing/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>

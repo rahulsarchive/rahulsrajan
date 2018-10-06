@@ -5,14 +5,16 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
 
 <channel>
 	<title>NOTES</title>
 	<atom:link href="https://www.rahulsrajan.com/category/notes/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.rahulsrajan.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 05 Oct 2018 10:18:27 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 06 Oct 2018 11:15:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +28,99 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Influence, The psychology of persuasion &#8211; Robert B Cialdini (10/10)</title>
+		<link>https://www.rahulsrajan.com/2018/10/06/influence/</link>
+		<comments>https://www.rahulsrajan.com/2018/10/06/influence/#respond</comments>
+		<pubDate>Sat, 06 Oct 2018 11:08:18 +0000</pubDate>
+		<dc:creator><![CDATA[Rahul S Rajan]]></dc:creator>
+				<category><![CDATA[NOTES]]></category>
+		<category><![CDATA[self-help]]></category>
+
+		<guid isPermaLink="false">https://www.rahulsrajan.com/?p=2853</guid>
+		<description><![CDATA[One of the most influential books I have read on psychology. The book details all the methods used by marketers to capture our attention and to persuade our actions. This can be something as small as laughter tracks in comedy sitcoms or more profound like influencing the actions of POWs in Chinese prison camps]]></description>
+				<content:encoded><![CDATA[<p>One of the most influential books I have read on psychology. The book details all the methods used by marketers to capture our attention and to persuade our actions. This can be something as small as laughter tracks in comedy sitcoms or more profound like influencing the actions of POWs in Chinese prison camps. All in all, a good read.</p>
+<p>Favourite quote &#8211;</p>
+<blockquote><p>With the sophisticated mental apparatus we have used to build world eminence as a species, we have created an environment so fast-paced, and information-laden that we must increasingly deal with it in that fashion of the animals that we long ago transcended.</p></blockquote>
+<h3>1. Weapons of Influence</h3>
+<ul>
+<li>When we ask people for a favour, we will be more successful if we provide them with a reason.</li>
+<li>Contrast principle &#8211; When two things are presented one after the other, if the second item is fairly different than the first, then we will perceive it to be more different. Eg- Next to an expensive item a less costly one will seem cheaper.</li>
+</ul>
+<blockquote><p>Civilization advances by extending the number of operation we can perform without thinking about them &#8211; Alfred North Whitehead.</p></blockquote>
+<h3>2. Reciprocation</h3>
+<blockquote><p>Pay every debt, as if God write the bill. &#8211; Ralph Walds Emerson</p></blockquote>
+<ul>
+<li>We are humans because our ancestors learned to share their food and their skills in an honoured network of obligations</li>
+<li><strong>Rejection then R<span style="background-color: #f6d5d9;">etreat </span>technique</strong> &#8211; One way to increase your chance would be to first make a larger request that the other person will reject then you would make a smaller offer that you were interested in all along, provided you have structured your request skillfully.</li>
+</ul>
+<h3>3. Commitment and Consistency</h3>
+<ul>
+<li>Once we have made a choice or taken a stand, we will encounter personal and interpersonal pressures to behave consistently with that commitment.</li>
+<li>Commitment is strongest when it is public.</li>
+<li><strong>Give it and take it away strategy</strong> &#8211; An advantage is offered that induces a favourable purchase decision then, sometime after the decision has been made but before the bargain is sealed, the original price advantage is deftly removed. A way to solve it &#8211;  ask yourself, &#8221; Knowing what I know now, if I could go back in time, would I make the same choice again.&#8221;</li>
+</ul>
+<h3>4. Social Proof</h3>
+<blockquote><p>Where all think alike, no one thinks very much &#8211; Walter Lippmann</p></blockquote>
+<ul>
+<li>We view a behaviour as more correct in a given situation to the degree that we see others performing it.</li>
+<li>Pluralistic ignorance &#8211; In which each person decided that since nobody is concerned, nothing is wrong.</li>
+<li>Werther Effect &#8211; immediately after following a front page suicide story the suicide rate increase dramatically in those geographical areas where the story has been highly publicized.</li>
+</ul>
+<blockquote><p>Since 95% of the people are imitators and only 5% initiators, people are persuaded more by the actions of others thatn by any proof we can offer &#8211; Cavett Robert</p></blockquote>
+<ul>
+<li>No leader can hope to persuade, regularly and single-handedly, all the members of the group. Thus the most influential leaders are those who know how to arrange group conditions to allow the principle of social proof to work maximally in their favour.</li>
+<li>Social proof is most powerful for those who feel unfamiliar with their surroundings and must consequently look outwards for evidence on how to behave.</li>
+</ul>
+<h3>5. Liking</h3>
+<blockquote>
+<div>The main work of a trial attorney is to make a jury like his client &#8211; Clarence Darrow</div>
+</blockquote>
+<div>
+<ul>
+<li><strong>Halo Effect</strong> &#8211; One positive character of a person dominates the way that person is viewed by others. Eg- Attractiveness.</li>
+<li><strong>The Good Cop/ Bad Cop</strong> &#8211;  The main reason it works is that it gives the impression that someone is on our side.</li>
+<li>Our vigilance should be directed towards the fact that undue liking has been generated. The biggest mistakes come when we are fond of the person making that request.</li>
+</ul>
+<h3>6. Authority</h3>
+</div>
+<div>
+<ul>
+<li><strong>Milgram Experiment</strong> &#8211; &#8216;When it is their job, how much suffering will ordinary people be willing to inflict on an entirely innocent person.&#8217; It has to do with a deep-seated sense of duty to authority. The real culprit was the subjects inability to defy the wishes of his boss.</li>
+<li>When confronted with an authority figure&#8217;s influence, think &#8221; is this authority truly an expert&#8221; and the credentials and the relevance of them to the topic at hand.</li>
+<li>They might seem to argue with themselves a bit, a good strategy for proving their honesty. Eg- &#8220;Loreal&#8217;s a bit more expensive and worth it&#8221;.</li>
+</ul>
+<h3>7. Scarcity</h3>
+</div>
+<div>
+<div>
+<blockquote>
+<div>The way to love anything is to know that it might be lost &#8211; G.K Chesterton</div>
+</blockquote>
+<ul>
+<li>The idea of potential loss plays a larger value into human decision making. People seem to be more motivated by the thought of losing something than by the thought of gaining something of equal value.</li>
+</ul>
+<blockquote><p>The joy is not in experiencing a scarce commodity, but in possessing it. It is important that we not confuse the two.</p></blockquote>
+</div>
+<ul>
+<li><strong>The Romeo and Juliet effect</strong>&#8211; The boomerang quality of parental pressure on adolescent behaviour.  Couples suffering from parental interference react by committing themselves more firmly to the partnership.</li>
+<li>Only individuals whose freedom in the matter had not been restricted by the law had the inclination to live by it.</li>
+<li>For political groups, the most effective strategy is not to publicize their unpopular views, but to get them officially censored and then publish the censorship. It is not that the audience members want to have that information more, it is that they tend to believe in it.</li>
+<li><strong>Lessons for rulers</strong> &#8211; When it comes to freedom, it is more dangerous to have given for a while than never to have given at all.</li>
+</ul>
+</div>
+<div>
+<div></div>
+<div></div>
+</div>
+<div>
+<div></div>
+</div>
+<div id="socialButtonOnPage" class="leftSocialButtonOnPage"><div class="csbwfs-sbutton-post"><div id="fb-p" class="csbwfs-fb"><a href="javascript:"  onclick="window.open('//www.facebook.com/sharer/sharer.php?u=https://www.rahulsrajan.com/category/notes/feed/','Facebook','width=800,height=300');return false;"
+   target="_blank" title="Share On Facebook" ><i class="csbwfs_facebook"></i></a></div></div><div class="csbwfs-sbutton-post"><div id="tw-p" class="csbwfs-tw"><a href="javascript:" onclick="window.open('//twitter.com/share?url=https://www.rahulsrajan.com/category/notes/feed/&text=NOTES&nbsp;&nbsp;', '_blank', 'width=800,height=300')" title="Share On Twitter" ><i class="csbwfs_twitter"></i></a></div></div><div class="csbwfs-sbutton-post"><div id="gp-p" class="csbwfs-gp"><a href="javascript:"  onclick="javascript:window.open('//plus.google.com/share?url=https://www.rahulsrajan.com/category/notes/feed/','','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=800');return false;" title="Share On Google Plus" ><i class="csbwfs_plus"></i></a></div></div><div class="csbwfs-sbutton-post"><div id="li-p" class="csbwfs-li"><a href="javascript:" onclick="javascript:window.open('//www.linkedin.com/shareArticle?mini=true&url=https://www.rahulsrajan.com/category/notes/feed/','', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" title="Share On Linkedin" ><i class="csbwfs_linkedin"></i></a></div></div></div>]]></content:encoded>
+			<wfw:commentRss>https://www.rahulsrajan.com/2018/10/06/influence/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>5 Books that changed my life.</title>
 		<link>https://www.rahulsrajan.com/2016/10/16/life-changing-books/</link>
 		<comments>https://www.rahulsrajan.com/2016/10/16/life-changing-books/#respond</comments>
@@ -63,7 +158,7 @@
 <p>&#8220;An essential gift for a good writer is a built-in, shockproof, Shit detector.&#8221;</p></blockquote>
 <h2 style="text-align: justify;"><strong><a href="http://amzn.to/2eDt0h0">How to win Friends and influence People</a>, by Dale Carnegie</strong></h2>
 <p style="text-align: justify;">
-<p style="text-align: justify;"><img class="alignleft  wp-image-2687" src="http://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL.jpg" alt="How to win friends and influence people" width="188" height="298" srcset="https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL.jpg 1616w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL-189x300.jpg 189w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL-768x1217.jpg 768w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL-646x1024.jpg 646w" sizes="(max-width: 188px) 100vw, 188px" />This is one of the classics, Written in simple English Carnegie explains how the internal clocks of men tick and how we can make them do the things we want without forcing them. Written in a time long forgotten, the rules still apply even today. Everyone should read this book at least once. I often wonder why this book is not taught in school. Kids need to learn these fundamental life skills instead of those useless complex differential equations. This book has helped me a lot when it comes to dealing with people, I&#8217;m always polite and never get mad easily—a trait I got from this book.</p>
+<p style="text-align: justify;"><img data-attachment-id="2687" data-permalink="https://www.rahulsrajan.com/2016/10/16/life-changing-books/810iasgmuyl/" data-orig-file="https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL.jpg" data-orig-size="1616,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="How to win friends and influence people" data-image-description="" data-medium-file="https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL-189x300.jpg" data-large-file="https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL-646x1024.jpg" class="alignleft  wp-image-2687" src="http://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL.jpg" alt="How to win friends and influence people" width="188" height="298" srcset="https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL.jpg 1616w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL-189x300.jpg 189w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL-768x1217.jpg 768w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL-646x1024.jpg 646w" sizes="(max-width: 188px) 100vw, 188px" />This is one of the classics, Written in simple English Carnegie explains how the internal clocks of men tick and how we can make them do the things we want without forcing them. Written in a time long forgotten, the rules still apply even today. Everyone should read this book at least once. I often wonder why this book is not taught in school. Kids need to learn these fundamental life skills instead of those useless complex differential equations. This book has helped me a lot when it comes to dealing with people, I&#8217;m always polite and never get mad easily—a trait I got from this book.</p>
 <blockquote><p>“Say to yourself over and over: “My popularity, my happiness, and sense of worth depend to no small extent upon my skill in dealing with people.”</p>
 <p>&#8220;Every man I meet is my superior in some way. In that, I learn of him.&#8221;</p>
 <p>&#8220;Action spring out of what we fundamentally desire&#8230;and the best piece of advice which can be given to would-be persuaders, whether in business, in the home, in schools, or in politics, is: <strong>First, arouse in the other person an eager want.</strong> He who can do this has the whole world with him. He who cannot walk a lonely way.&#8221;</p></blockquote>
@@ -72,7 +167,8 @@
 <p style="text-align: justify;">You can find more articles like this on my <a href="http://www.rahulsrajan.com/blog/">Blog</a>.</p>
 <p style="text-align: justify;">Find me on <a href="http://facebook.com/meetrahulrajan">Facebook</a>, <a href="http://www.instagram.com/ra.hul.rajan/">Instagram</a>, <a href="https://in.linkedin.com/in/rahulsrajan">LinkedIn</a>.</p>
 <p>&nbsp;</p>
-]]></content:encoded>
+<div id="socialButtonOnPage" class="leftSocialButtonOnPage"><div class="csbwfs-sbutton-post"><div id="fb-p" class="csbwfs-fb"><a href="javascript:"  onclick="window.open('//www.facebook.com/sharer/sharer.php?u=https://www.rahulsrajan.com/category/notes/feed/','Facebook','width=800,height=300');return false;"
+   target="_blank" title="Share On Facebook" ><i class="csbwfs_facebook"></i></a></div></div><div class="csbwfs-sbutton-post"><div id="tw-p" class="csbwfs-tw"><a href="javascript:" onclick="window.open('//twitter.com/share?url=https://www.rahulsrajan.com/category/notes/feed/&text=NOTES&nbsp;&nbsp;', '_blank', 'width=800,height=300')" title="Share On Twitter" ><i class="csbwfs_twitter"></i></a></div></div><div class="csbwfs-sbutton-post"><div id="gp-p" class="csbwfs-gp"><a href="javascript:"  onclick="javascript:window.open('//plus.google.com/share?url=https://www.rahulsrajan.com/category/notes/feed/','','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=800');return false;" title="Share On Google Plus" ><i class="csbwfs_plus"></i></a></div></div><div class="csbwfs-sbutton-post"><div id="li-p" class="csbwfs-li"><a href="javascript:" onclick="javascript:window.open('//www.linkedin.com/shareArticle?mini=true&url=https://www.rahulsrajan.com/category/notes/feed/','', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" title="Share On Linkedin" ><i class="csbwfs_linkedin"></i></a></div></div></div>]]></content:encoded>
 			<wfw:commentRss>https://www.rahulsrajan.com/2016/10/16/life-changing-books/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>

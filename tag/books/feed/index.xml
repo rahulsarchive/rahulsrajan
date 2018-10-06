@@ -5,14 +5,16 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
 
 <channel>
 	<title>Books</title>
 	<atom:link href="https://www.rahulsrajan.com/tag/books/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.rahulsrajan.com</link>
 	<description></description>
-	<lastBuildDate>Fri, 05 Oct 2018 10:18:27 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 06 Oct 2018 11:15:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -63,7 +65,7 @@
 <p>&#8220;An essential gift for a good writer is a built-in, shockproof, Shit detector.&#8221;</p></blockquote>
 <h2 style="text-align: justify;"><strong><a href="http://amzn.to/2eDt0h0">How to win Friends and influence People</a>, by Dale Carnegie</strong></h2>
 <p style="text-align: justify;">
-<p style="text-align: justify;"><img class="alignleft  wp-image-2687" src="http://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL.jpg" alt="How to win friends and influence people" width="188" height="298" srcset="https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL.jpg 1616w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL-189x300.jpg 189w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL-768x1217.jpg 768w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL-646x1024.jpg 646w" sizes="(max-width: 188px) 100vw, 188px" />This is one of the classics, Written in simple English Carnegie explains how the internal clocks of men tick and how we can make them do the things we want without forcing them. Written in a time long forgotten, the rules still apply even today. Everyone should read this book at least once. I often wonder why this book is not taught in school. Kids need to learn these fundamental life skills instead of those useless complex differential equations. This book has helped me a lot when it comes to dealing with people, I&#8217;m always polite and never get mad easily—a trait I got from this book.</p>
+<p style="text-align: justify;"><img data-attachment-id="2687" data-permalink="https://www.rahulsrajan.com/2016/10/16/life-changing-books/810iasgmuyl/" data-orig-file="https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL.jpg" data-orig-size="1616,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="How to win friends and influence people" data-image-description="" data-medium-file="https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL-189x300.jpg" data-large-file="https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL-646x1024.jpg" class="alignleft  wp-image-2687" src="http://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL.jpg" alt="How to win friends and influence people" width="188" height="298" srcset="https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL.jpg 1616w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL-189x300.jpg 189w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL-768x1217.jpg 768w, https://www.rahulsrajan.com/wp-content/uploads/2016/10/810IASGMUYL-646x1024.jpg 646w" sizes="(max-width: 188px) 100vw, 188px" />This is one of the classics, Written in simple English Carnegie explains how the internal clocks of men tick and how we can make them do the things we want without forcing them. Written in a time long forgotten, the rules still apply even today. Everyone should read this book at least once. I often wonder why this book is not taught in school. Kids need to learn these fundamental life skills instead of those useless complex differential equations. This book has helped me a lot when it comes to dealing with people, I&#8217;m always polite and never get mad easily—a trait I got from this book.</p>
 <blockquote><p>“Say to yourself over and over: “My popularity, my happiness, and sense of worth depend to no small extent upon my skill in dealing with people.”</p>
 <p>&#8220;Every man I meet is my superior in some way. In that, I learn of him.&#8221;</p>
 <p>&#8220;Action spring out of what we fundamentally desire&#8230;and the best piece of advice which can be given to would-be persuaders, whether in business, in the home, in schools, or in politics, is: <strong>First, arouse in the other person an eager want.</strong> He who can do this has the whole world with him. He who cannot walk a lonely way.&#8221;</p></blockquote>
@@ -72,7 +74,8 @@
 <p style="text-align: justify;">You can find more articles like this on my <a href="http://www.rahulsrajan.com/blog/">Blog</a>.</p>
 <p style="text-align: justify;">Find me on <a href="http://facebook.com/meetrahulrajan">Facebook</a>, <a href="http://www.instagram.com/ra.hul.rajan/">Instagram</a>, <a href="https://in.linkedin.com/in/rahulsrajan">LinkedIn</a>.</p>
 <p>&nbsp;</p>
-]]></content:encoded>
+<div id="socialButtonOnPage" class="leftSocialButtonOnPage"><div class="csbwfs-sbutton-post"><div id="fb-p" class="csbwfs-fb"><a href="javascript:"  onclick="window.open('//www.facebook.com/sharer/sharer.php?u=https://www.rahulsrajan.com/tag/books/feed/','Facebook','width=800,height=300');return false;"
+   target="_blank" title="Share On Facebook" ><i class="csbwfs_facebook"></i></a></div></div><div class="csbwfs-sbutton-post"><div id="tw-p" class="csbwfs-tw"><a href="javascript:" onclick="window.open('//twitter.com/share?url=https://www.rahulsrajan.com/tag/books/feed/&text=Blog%20Archives&nbsp;&nbsp;', '_blank', 'width=800,height=300')" title="Share On Twitter" ><i class="csbwfs_twitter"></i></a></div></div><div class="csbwfs-sbutton-post"><div id="gp-p" class="csbwfs-gp"><a href="javascript:"  onclick="javascript:window.open('//plus.google.com/share?url=https://www.rahulsrajan.com/tag/books/feed/','','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=800');return false;" title="Share On Google Plus" ><i class="csbwfs_plus"></i></a></div></div><div class="csbwfs-sbutton-post"><div id="li-p" class="csbwfs-li"><a href="javascript:" onclick="javascript:window.open('//www.linkedin.com/shareArticle?mini=true&url=https://www.rahulsrajan.com/tag/books/feed/','', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" title="Share On Linkedin" ><i class="csbwfs_linkedin"></i></a></div></div></div>]]></content:encoded>
 			<wfw:commentRss>https://www.rahulsrajan.com/2016/10/16/life-changing-books/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
