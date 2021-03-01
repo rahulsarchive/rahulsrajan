@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CNC &#8211; Rahul S Rajan</title>
+	<atom:link href="https://www.rahulsrajan.com/tag/cnc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.rahulsrajan.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Mar 2021 06:58:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+
+<image>
+	<url>https://www.rahulsrajan.com/wp-content/uploads/2021/02/Rahulabout-150x150.jpg</url>
+	<title>CNC &#8211; Rahul S Rajan</title>
+	<link>https://www.rahulsrajan.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DIY CNC Foam cutter</title>
+		<link>https://www.rahulsrajan.com/diy-cnc-foam-cutter/</link>
+		
+		<dc:creator><![CDATA[rahulsrajan]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2021 11:17:40 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<category><![CDATA[CNC]]></category>
+		<guid isPermaLink="false">https://www.rahulsrajan.com/?p=753</guid>
+
+					<description><![CDATA[A DIY Industrial CNC Foam cutter with Aluminum Profiles and Roller gantries. Specifications Work Area &#8211; 1.6 x 1.6 x 1.5m Power &#8211; 220v 6A Heating Element &#8211; 26AWG Nichrome wire Heating output &#8211; Meanwell DC 52V 700W Max Cutting Feedrate &#8211; 2000mm/min Controller &#8211; Mach3 USB Stepper Drivers &#8211; Rhino Motion Controls Max Parallel&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>A DIY Industrial CNC Foam cutter with Aluminum Profiles and Roller gantries.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/01.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/01.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<h3 id="https-github-com-rahulsarchive-industrial-cnc-foam-cutter-specifications-specifications">Specifications</h3>
+
+
+
+<ol><li>Work Area &#8211; 1.6 x 1.6 x 1.5m</li><li>Power &#8211; 220v 6A</li><li>Heating Element &#8211; 26AWG Nichrome wire</li><li>Heating output &#8211; Meanwell DC 52V 700W</li><li>Max Cutting Feedrate &#8211; 2000mm/min</li><li>Controller &#8211; Mach3 USB</li><li>Stepper Drivers &#8211; Rhino Motion Controls</li><li>Max Parallel lines &#8211; 5 Nos</li></ol>
+
+
+
+<p>The First version using Arduino and Ramps</p>
+
+
+
+<p><a href="https://github.com/rahulsarchive/4AxisFoamCutter">4-Axis Foam cutter(Arduino +Ramps)</a></p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/02.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/02.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<p>The frame made from 4040 Extruded Aluminum profiles and joined together with custom Aluminum brackets for rigidity.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/03.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/03.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<p>The Control box securely mounted on the side of the machine.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/04.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/04.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<p>Meanwell power supplies and Rhino Motion control Drivers.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/41.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/41.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<p>Y carriage CNC machined from 10mm Delrin.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/05.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/05.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<p>The Nichrome wire is held in the carriage with spring on either side. Power to the wire is fed via the stainless steel threaded rods which also act as vertical spacers between parallel wires.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/06.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/06.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<p>The carriage runs on roller bearings with custom Delrin bushings which attach to the aluminum profiles. All the wires are contained in the frame itself and the design is modular.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/07.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/07.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/08.jpg"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/08.jpg" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<p>The x-axis consists of two motors on each side, one on top and bottom to provide longitudinal stability. These are NEMA 17 and they run on belts on either side.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/09.jpg"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/09.jpg" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/10.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/10.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<p>The Y-axis holds a Nema 23 motor with the belt running through the inner profile of the Aluminum extrusions. The wires from the control box are fed via a cable carrier.</p>
+
+
+
+<p>The first machine was installed at an insulation profile making factory in Kozhikode. Some photos of the machine in the client’s factory.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/install1.jpg"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/install1.jpg" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/install2.jpg"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/install2.jpg" alt="CNC Foam cutter"/></a></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>FabNC</title>
+		<link>https://www.rahulsrajan.com/fabnc/</link>
+		
+		<dc:creator><![CDATA[rahulsrajan]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2021 11:07:40 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<category><![CDATA[CNC]]></category>
+		<guid isPermaLink="false">https://www.rahulsrajan.com/?p=746</guid>
+
+					<description><![CDATA[A Generalist 3-axis CNC machine based on Roller gantries. This work is part of the Machines that Make project done in collaboration with CBA, MIT, USA. The research work is done at Fab lab Trivandrum is supported by Kerala Startup Mission. FabNC is a generalist 3-axis CNC machine based on the RCT gantry designed by&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>A Generalist 3-axis CNC machine based on Roller gantries.</p>
+
+
+
+<p>This work is part of the Machines that Make project done in collaboration with CBA, MIT, USA. The research work is done at Fab lab Trivandrum is supported by Kerala Startup Mission.</p>
+
+
+
+<div class="wp-block-image"><figure class="alignleft"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/cbapng.png"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/cbapng.png" alt="FabNC"/></a></figure></div>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/logo.svg"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/logo.svg" alt="FabNC"/></a></figure>
+
+
+
+<p></p>
+
+
+
+<p>FabNC is a generalist 3-axis CNC machine based on the RCT gantry designed by Jake Read, MIT. The design uses ball bearings to provide a smooth linear motion. The Gantry design is parametric and can be adopted for a variety of axis lengths and material thickness.</p>
+
+
+
+<p>The current machine is designed with a bed area of about 2X3 feet.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/CAD/MTM2.png"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/CAD/MTM2.png" alt="FabNC"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/CAD/MTM21.png"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/CAD/MTM21.png" alt="FabNC"/></a></figure>
+
+
+
+<h2 id="design-workflow">Design Workflow</h2>
+
+
+
+<ol><li>Figure out the rough machine dimensions you want to build.</li><li>Design each axis to fit the specification (Jake’s RCT Gantries)</li><li>Fit all the axis in a neat configuration.</li><li>Design fixtures, connectors, bolt holes, etc to hold everything in place (keep a note on Rigidity).</li><li>Design fixtures/housings and routing for wires and control electronics.</li><li>Prep design for manufacture (Nester plugin for Fusion 360, Automatic dogbone).</li><li>Switch to CAM layout and create tool paths.</li><li>Mill out all the components and assemble the parts.</li></ol>
+
+
+
+<h3 id="some-useful-lessons-learned">Some useful lessons learned</h3>
+
+
+
+<ol><li>Always start from the Z-axis and build outwards, a lot easier than going the other way.</li><li>Rigidity is your friend.</li><li>Always note hole sizes before milling, eg 4.8mm hole for threading M5 screw.</li><li>Test the runout of your machine by doing a small square cut and measuring the dimensions. Change the bit diameter in Vcarve to offset the runout.</li><li>Double-check the dimensions of your CAD file and check the material thickness before milling.</li><li>Mill plastic with a new single flute end mill. Go for max depth (5-10mm) and min Feed rate (15mm/sec).</li><li>The torsional rigidity of plastics is poor, try to limit the max length of plastic sections.</li><li>Use aluminum sections were convenient to help with Rigidity.</li></ol>
+
+
+
+<h3 id="detailed-information-on-the-build-can-be-found-in-the-build-log-https-github-com-rahulsarchive-fabnc-tree-master-build-20log">Detailed information on the build can be found in the&nbsp;<strong><a href="https://github.com/rahulsarchive/FabNC/tree/master/Build%20Log">Build Log</a></strong></h3>
+
+
+
+<h2 id="fabnc-v1">FabNC V1</h2>
+
+
+
+<p>The completed machine</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/FAB/f1.JPG"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/FAB/f1.JPG" alt="FabNC"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/FAB/f2.JPG"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/FAB/f2.JPG" alt="FabNC"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/FAB/f3.JPG"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/FAB/f3.JPG" alt="FabNC"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/FAB/f4.JPG"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/FAB/f4.JPG" alt="FabNC"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/FAB/f5.JPG"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/FAB/f5.JPG" alt="FabNC"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/FAB/f6.JPG"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/FAB/f6.JPG" alt="FabNC"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/FAB/23.JPG"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/FAB/23.JPG" alt="FabNC"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/pentest.gif"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/pentest.gif" alt="FabNC"/></a></figure>
+
+
+
+<p>Link to Repo &#8211;&nbsp;<a href="https://github.com/rahulsarchive/FabNC">https://github.com/rahulsarchive/FabNC</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

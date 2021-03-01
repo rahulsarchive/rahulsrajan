@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Portfolio &#8211; Rahul S Rajan</title>
+	<atom:link href="https://www.rahulsrajan.com/category/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.rahulsrajan.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Mar 2021 06:58:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+
+<image>
+	<url>https://www.rahulsrajan.com/wp-content/uploads/2021/02/Rahulabout-150x150.jpg</url>
+	<title>Portfolio &#8211; Rahul S Rajan</title>
+	<link>https://www.rahulsrajan.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DIY CNC Foam cutter</title>
+		<link>https://www.rahulsrajan.com/diy-cnc-foam-cutter/</link>
+		
+		<dc:creator><![CDATA[rahulsrajan]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2021 11:17:40 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<category><![CDATA[CNC]]></category>
+		<guid isPermaLink="false">https://www.rahulsrajan.com/?p=753</guid>
+
+					<description><![CDATA[A DIY Industrial CNC Foam cutter with Aluminum Profiles and Roller gantries. Specifications Work Area &#8211; 1.6 x 1.6 x 1.5m Power &#8211; 220v 6A Heating Element &#8211; 26AWG Nichrome wire Heating output &#8211; Meanwell DC 52V 700W Max Cutting Feedrate &#8211; 2000mm/min Controller &#8211; Mach3 USB Stepper Drivers &#8211; Rhino Motion Controls Max Parallel&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>A DIY Industrial CNC Foam cutter with Aluminum Profiles and Roller gantries.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/01.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/01.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<h3 id="https-github-com-rahulsarchive-industrial-cnc-foam-cutter-specifications-specifications">Specifications</h3>
+
+
+
+<ol><li>Work Area &#8211; 1.6 x 1.6 x 1.5m</li><li>Power &#8211; 220v 6A</li><li>Heating Element &#8211; 26AWG Nichrome wire</li><li>Heating output &#8211; Meanwell DC 52V 700W</li><li>Max Cutting Feedrate &#8211; 2000mm/min</li><li>Controller &#8211; Mach3 USB</li><li>Stepper Drivers &#8211; Rhino Motion Controls</li><li>Max Parallel lines &#8211; 5 Nos</li></ol>
+
+
+
+<p>The First version using Arduino and Ramps</p>
+
+
+
+<p><a href="https://github.com/rahulsarchive/4AxisFoamCutter">4-Axis Foam cutter(Arduino +Ramps)</a></p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/02.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/02.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<p>The frame made from 4040 Extruded Aluminum profiles and joined together with custom Aluminum brackets for rigidity.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/03.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/03.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<p>The Control box securely mounted on the side of the machine.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/04.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/04.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<p>Meanwell power supplies and Rhino Motion control Drivers.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/41.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/41.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<p>Y carriage CNC machined from 10mm Delrin.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/05.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/05.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<p>The Nichrome wire is held in the carriage with spring on either side. Power to the wire is fed via the stainless steel threaded rods which also act as vertical spacers between parallel wires.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/06.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/06.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<p>The carriage runs on roller bearings with custom Delrin bushings which attach to the aluminum profiles. All the wires are contained in the frame itself and the design is modular.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/07.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/07.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/08.jpg"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/08.jpg" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<p>The x-axis consists of two motors on each side, one on top and bottom to provide longitudinal stability. These are NEMA 17 and they run on belts on either side.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/09.jpg"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/09.jpg" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/10.JPG"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/10.JPG" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<p>The Y-axis holds a Nema 23 motor with the belt running through the inner profile of the Aluminum extrusions. The wires from the control box are fed via a cable carrier.</p>
+
+
+
+<p>The first machine was installed at an insulation profile making factory in Kozhikode. Some photos of the machine in the client’s factory.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/install1.jpg"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/install1.jpg" alt="CNC Foam cutter"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/blob/master/Images/install2.jpg"><img src="https://github.com/rahulsarchive/Industrial-CNC-Foam-Cutter/raw/master/Images/install2.jpg" alt="CNC Foam cutter"/></a></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>FOS UAV</title>
+		<link>https://www.rahulsrajan.com/fos-uav/</link>
+		
+		<dc:creator><![CDATA[rahulsrajan]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2021 11:14:26 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<category><![CDATA[Drones]]></category>
+		<guid isPermaLink="false">https://www.rahulsrajan.com/?p=749</guid>
+
+					<description><![CDATA[The aim of this project is to develop an open source aerial mapping platform using standard hardware and to develop a workflow from data acquisition to data processing. FOS UAV is part of the Drone Research Program by&#160;ICFOSS&#160;(International Center for Free and Open Source Software) Overview Most UAVs today are multirotor, they have the advantage&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>The aim of this project is to develop an open source aerial mapping platform using standard hardware and to develop a workflow from data acquisition to data processing.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/ICFOSS.png"><img src="https://github.com/rahulsarchive/FOS_UAV/raw/master/Images/ICFOSS.png" alt="open uav"/></a></figure>
+
+
+
+<p>FOS UAV is part of the Drone Research Program by&nbsp;<a href="https://icfoss.in/">ICFOSS</a>&nbsp;(International Center for Free and Open Source Software)</p>
+
+
+
+<h2 id="overview">Overview</h2>
+
+
+
+<p>Most UAVs today are multirotor, they have the advantage of being able to hover and carry more payload like sensors and other auxiliaries. But with the current battery technology, multirotor have flight time in the range of 15- 20 mins, without compromising on the payload. They make good inspection drones in tight spots and hard to reach places. But because of the way they fly, they burn through a lot of power, hence limiting the flight time and maximum range.</p>
+
+
+
+<p>Fixed winged aircraft fly on the principle of aerodynamic lift and are far more efficient at covering ground than multirotor. Even though they are considerably harder to design and build, they make up for with efficiency.</p>
+
+
+
+<p>Our goal is to build a suitable fixed-wing platform that can carry the necessary payload and provide usable data for aerial mapping. The craft needs to carry a good GPS system, a downward-facing camera for taking images and be able to fly missions autonomously.</p>
+
+
+
+<p>Our constraints being, it must be simple to make, and easy to use. All the hardware and software are low cost and open-source, without sacrificing safety and usability.</p>
+
+
+
+<h2 id="related-projects">Related projects</h2>
+
+
+
+<p><strong><a href="https://github.com/rahulsarchive/4AxisFoamCutter">4-Axis Hotwire Foam Cutter</a></strong><br><strong><a href="https://github.com/rahulsarchive/cncdragknife">CNC Drag knife</a></strong></p>
+
+
+
+<h2 id="mapping-process-open-uav-https-github-com-rahulsarchive-fos-uav-raw-master-images-software-ortho-jpg-https-github-com-rahulsarchive-fos-uav-blob-master-images-software-ortho-jpg">Mapping Process<a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/Software/ortho.jpg"></a></h2>
+
+
+
+<p>The mapping is done by a process called&nbsp;<strong>Photogrammetry</strong>. The UAV carries a camera that is angled down to take photos of the ground when the crafts fly overhead. The UAV then flies along with a defined GPS way-point mission which covers the area to be mapped with sufficient overlap. The software then reads all the images and then stitches them into a 3-dimensional orthomosaic.</p>
+
+
+
+<p>Multiple data can be inferred from the orthomosaic like, ground elevation, water level, cubic volume of materials. With sufficient overlap and good camera altitudes, centimeter-level accuracy can be obtained. But in order for the process to work, the UAV must provide reasonably stable data over the entire course of the mission.</p>
+
+
+
+<h1 id="software">Software</h1>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/Software/ardu.jpg"><img src="https://github.com/rahulsarchive/FOS_UAV/raw/master/Images/Software/ardu.jpg" alt="open uav"/></a></figure>
+
+
+
+<p>Ardupilot is one of the most advanced open source autopilot solution, it has been there the longest and has an active community developing it. The firmware supports a wide range of vehicles from airborne to terrestrial and even underwater. It is paired with suitable ground control software to bring out its full functionalities.</p>
+
+
+
+<p>In the latest release of Ardupilot, they moved onto the Chibios platform and have now extended support for some of the common STM32 F4 flight controllers like the Omnibus F4 and the Matek F405 wing. We will be using this version and testing the features, the new firmware is still in beta and being actively developed.</p>
+
+
+
+<h2 id="inav">INAV</h2>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/Software/inav.png"><img src="https://github.com/rahulsarchive/FOS_UAV/raw/master/Images/Software/inav.png" alt="open uav"/></a></figure>
+
+
+
+<p>Inav is a flight control software, which was forked from Clean Flight. The software supports both multi-rotors and fixed wings and has good GPS modes like Return to launch (RTH) etc. The software has a mission planner, which allows for setting full autopilot GPS way-point navigation. It supports a variety of Flight controller boards and is actively being developed by the community.</p>
+
+
+
+<h2 id="open-drone-maps-open-uav-https-github-com-rahulsarchive-fos-uav-raw-master-images-software-odm-png-https-github-com-rahulsarchive-fos-uav-blob-master-images-software-odm-png">Open Drone Maps<a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/Software/odm.png"></a></h2>
+
+
+
+<p>OpenDroneMap is an open-source toolkit for processing aerial drone imagery. Open drone maps turn the images captures by the drone into three-dimensional geographic data that can be used in combination with other geographic datasets.</p>
+
+
+
+<p>it can process a collection of images into point clouds, digital surface models, Digital Elevation Models, etc.</p>
+
+
+
+<h2 id="mission-planner">Mission Planner</h2>
+
+
+
+<h2 id="open-uav-https-github-com-rahulsarchive-fos-uav-raw-master-images-software-mp-jpg-https-github-com-rahulsarchive-fos-uav-blob-master-images-software-mp-jpg"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/Software/mp.jpg"></a></h2>
+
+
+
+<p>Mission Planner is a ground control station for Plane, Copter, and Rover. It can be used as a configuration utility or as a dynamic control supplement for your autonomous vehicle. It can be used to configure and tune your vehicle, plan, and load autonomous GPS way-point missions. With proper telemetry hardware, it can provide the live status of the vehicle, record telemetry data, and operate the vehicle in FPV (first-person view)</p>
+
+
+
+<h1 id="hardware">Hardware</h1>
+
+
+
+<h2 id="design-considerations">Design Considerations</h2>
+
+
+
+<p>The flight characteristics need to be kept in mind when choosing an aircraft. We wanted to keep things simple and minimize the number of moving components. Hence no tail. The aircraft will be a flying wing, simple and monolithic in construction, good performance, and agility.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/Software/wing.jpg"><img src="https://github.com/rahulsarchive/FOS_UAV/raw/master/Images/Software/wing.jpg" alt="open uav"/></a></figure>
+
+
+
+<h3 id="wing-aerodynamics-101">WIng aerodynamics 101</h3>
+
+
+
+<p>The two most important parameters when designing an aircraft are the Center of Gravity (COG) and the Center of Pressure (COP). The COG is the point where the weight of the aircraft acts and the COP is the point where the aerodynamic lift forces act. For the plane to be stable, the COG must be in front of the COP. But this means the airplane has a tendency to nose down when flying. That’s where the tail comes in, the tail on a conventional airplane is set at a slightly downward angle compared to the wing, a term known as Decalage.</p>
+
+
+
+<p>So the wing is lifting up and the tail is pushing down to keep the plane stable. If the COG is too far forward the wing has to push down even more and the wing has to make more lift to counter this effect. The inverse is also true, if the COG is too far back then the tail has to push up to keep the plane level, this is not a stable condition and it&#8217;s very difficult to fly a tail-heavy plane.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/Software/ReflexWing.gif"><img src="https://github.com/rahulsarchive/FOS_UAV/raw/master/Images/Software/ReflexWing.gif" alt="open uav"/></a></figure>
+
+
+
+<p>A wing emulates a stable flying condition by having a forward COG and using its Elevons (Elevator+ Aeilerons) to pitch the wing up, A term known as Reflex in which the elevons are kept at a slight up to push the tail down and pitch up the wing. This is not without consequences, the more forward the COG the more the elevons have to pitch up, thereby creating more induced drag. The next parameter which influences the COG and hence the stability is the&nbsp;<strong>Sweep Angle</strong>.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/Software/sweep.gif"><img src="https://github.com/rahulsarchive/FOS_UAV/raw/master/Images/Software/sweep.gif" alt="open uav"/></a></figure>
+
+
+
+<p>Sweep is important because it provides leverage for the COG to act. The COG needs to be at about 25-30% of the chord, in a rectangular wing, this is very close to the leading edge and will not provide enough leverage to balance the COG, so we need a long fuselage in front of the wing to carry the weight.</p>
+
+
+
+<p>In a wing, the CG needs to be at about 20-30% of the&nbsp;<strong>Mean aerodynamic chord</strong>, which takes into account the root and tip chord and the sweep angle. In simple terms, the more the sweep, the farther back the COG can be, and the more leverage you can get. But the more the sweep the less the lift it produces per wingspan. Sweep also has another effect, it acts like a&nbsp;<strong>Dihedral</strong></p>
+
+
+
+<p>A&nbsp;<strong>Dihedral</strong>&nbsp;is a slight angle between the wings to provide stability. When one wing dips, it produces more lift than the other wing and the aircraft comes back to level. A side effect being, it will cause the wing to wobble, as the side facing the wind will have more lift than the trailing wing.</p>
+
+
+
+<p>Flying wings are a lot harder to control as they are inherently unstable aircraft. They are very sensitive to the changes in the Center of Gravity (CG) and flying them manually is a skill.</p>
+
+
+
+<p>Since our objective is to get stable data, flying them manually is not an option. This is where a flight controller comes in, it will keep the craft stable and provide additional features.</p>
+
+
+
+<h3 id="choosing-an-airfoil">Choosing an Airfoil</h3>
+
+
+
+<p>In our version #2 build, we used the Clark y airfoil for the wing but it did not perform as well as we expected, after a bit of research on tip stalling and how to avoid it in a wing, we stumbled upon the&nbsp;<strong>KFm airfoils</strong>. On paper they seemed very good, so we decided to try them out.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/Software/KFm3.jpg"><img src="https://github.com/rahulsarchive/FOS_UAV/raw/master/Images/Software/KFm3.jpg" alt="open uav"/></a></figure>
+
+
+
+<p>The KF stands for Kline and Foggleman who were the designers of the KF airfoils. Unlike a conventional smooth airfoil. The KFm airfoil uses a series of layers to create stepped airfoils.</p>
+
+
+
+<p>There are a number of KF variations, That use a combination of layers and positioning to produce a wing that can be made to emulate what a normal wing airfoil profiles.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/Software/kfm.jpg"><img src="https://github.com/rahulsarchive/FOS_UAV/raw/master/Images/Software/kfm.jpg" alt="open uav"/></a></figure>
+
+
+
+<p>Drawn up by Dick Kline these give some basic guide numbers for the various combinations that have been tried. The guide numbers however are open to changes, going thinner will always work, going a bit thicker will often work, go too thick and it won’t work.</p>
+
+
+
+<p>The percentage thickness refers to each section’s total thickness vs the total chord of the wing, and not the height of the step. The height of the step is only determined by the thickness of your foam sheet. Steps can be raised to give more height and the step effect increases proportionally with both height and airspeed.</p>
+
+
+
+<p>The basic stepped airfoil idea is that there will be a vortex produced behind each step that fills in the gap and lets the airflow over the wing as though the gap was solid and profiled.</p>
+
+
+
+<p>For more details, check the RCgroups form on KFm theory and science.</p>
+
+
+
+<p><a href="https://www.rcgroups.com/forums/showthread.php?1296458-**-Kline-Fogleman-(KFm)-Airfoils-Advanced-Theory-Science-**">Kline-Fogleman-(KFm) Airfoils Advanced Theory Science</a></p>
+
+
+
+<h4 id="some-positive-characteristics-of-kfm-airfoils">Some positive characteristics of KFm airfoils</h4>
+
+
+
+<ol><li>It can handle a wide range of speeds from very slow to fast.</li><li>It has a much greater range for its center of gravity, it could be moved as much as 40% back since the entire rear section of the wing is producing lift.</li><li>It has very good stall characteristics and it retards tip stalling in a flying wing.</li></ol>
+
+
+
+<h3 id="power-plant-selection">Power plant selection</h3>
+
+
+
+<p>The power plant in an electric aircraft is not just the Motor alone, but a combination of Motor, Propeller, and the battery. The battery can be thought of as both the energy source and the supercharger. When a motor is under load, it will pull a lot of amps, and the battery must be capable of supplying it.</p>
+
+
+
+<p>Batteries are rated for their capacity and discharge rating. The capacity is the total amount of charge it can hold, bigger mAh gives longer flight times, but are also heavy. The discharge rating, denoted by ‘C rating’ is the max amount of current it can deliver at a time.</p>
+
+
+
+<p><strong>Max current from battery = mAh x C rating.</strong></p>
+
+
+
+<p>Select good batteries with a high discharge rating, so that it can keep up with the motor.</p>
+
+
+
+<p>The motors are rated in watts for the amount of power they deliver. Now how they deliver that power depends on the motor specifications namely,</p>
+
+
+
+<ol><li>Higher Kv motor spin faster, use smaller propellers, consumes a lot of currents and are generally used for high-speed aircraft.</li><li>Lower Kv motor spin slower, use a large propeller, produce lots of thrusts, consumes less current, Generally used for larger planes with big props.</li><li>The numbers on the motors generally indicate the size of the stator eg – 2212 1000kv motor, which means stator dia is 22 mm and height is 12 mm.</li><li>Larger diameter motors produce more thrust. Taller motors are stable at higher speeds.</li></ol>
+
+
+
+<p>The propeller converts the mechanical energy from the motor into thrust. They are specified by their diameter and pitch. A “5X4 prop” has a 5-inch diameter and 4-inch pitch.</p>
+
+
+
+<p>Generally,</p>
+
+
+
+<ol><li>Larger props produce more thrust, smaller props are more responsive.</li><li>Always match the motor to propeller. Lower Kv pairs with larger props and vice versa.</li><li>For efficiency, go for the larges prop you can fit on the aircraft.</li><li>Larger props produce more thrust, higher pitch gives faster speed.</li></ol>
+
+
+
+<h3 id="flight-controller">Flight controller</h3>
+
+
+
+<p>A Flight controller is basically an inertial measurement unit (IMU) plus a couple of sensors and a processor to read the sensors and act on the motors. It is constantly monitoring the orientation of the craft and trying to keep it level against outside disturbances. Most flight controllers can run software that provides a host of abilities like GPS navigation, Auto-land/take-off etc.</p>
+
+
+
+<p>There are many open-source flight controllers designed for fixed-wing like the&nbsp;<strong>APM</strong>&nbsp;and&nbsp;<strong>Pixhawk</strong>. But we can use the mini race quad boom to get cheap and efficient flight controllers.</p>
+
+
+
+<p>Most mini quads today use a flight controller which has an STM32 chip on it, depending on the performance required, they range from F1 to F7 series. we settled on an&nbsp;<strong>STM32F4 flight controller</strong>&nbsp;which is a happy medium between performance and the number of devices that can be connected to it.</p>
+
+
+
+<p>The flight controller needs software to run. There are a couple of opensource software to choose from like Ardupilot, Betaflight, Cleanflight, INAV etc. Most software is geared towards multirotor but there are a few which support fixed wing crafts.</p>
+
+
+
+<p>We chose Ardupilot as the flight control software as it met all the requirements and has good mission planning capabilities.</p>
+
+
+
+<h2 id="hardware-1">Hardware</h2>
+
+
+
+<p>The hardware is low cost and reliable, and can be obtained off-the-shellf</p>
+
+
+
+<h3 id="bill-of-materials">Bill of Materials</h3>
+
+
+
+<figure class="wp-block-table"><table><thead><tr><th>SL NO</th><th>ITEM</th><th>DESCRIPTION</th><th>QTY</th></tr></thead><tbody><tr><td>1.</td><td><strong>Matek F405 wing</strong></td><td>STM32F405 Flight Controller</td><td><strong>1</strong></td></tr><tr><td>2.</td><td><strong>Beitian BN-880 GPS module</strong></td><td>GPS Receiver</td><td><strong>1</strong></td></tr><tr><td>3.</td><td><strong>DYS D3536 1400KV</strong></td><td>1000Kv 700W motor</td><td><strong>1</strong></td></tr><tr><td>4.</td><td><strong>SkyWalker 60A Esc</strong></td><td>60A ESC</td><td><strong>1</strong></td></tr><tr><td>5.</td><td><strong>Towerpro MG90S Servo</strong></td><td>9g Metal Gear Servo</td><td><strong>2</strong></td></tr><tr><td>6.</td><td><strong>Pushrod connectors</strong></td><td>Servo pushrod connectors</td><td><strong>2</strong></td></tr><tr><td>7.</td><td><strong>Gemfan 9X6 Prop</strong></td><td>9X6 prop</td><td><strong>1</strong></td></tr><tr><td>8.</td><td><strong>Tattu 5000mAh 30C</strong></td><td>Lipo Battery</td><td><strong>1</strong></td></tr><tr><td>9.</td><td><strong>Frsky S8R Receiver</strong></td><td>Frsky Telemetry receiver</td><td><strong>1</strong></td></tr><tr><td>10.</td><td><strong>Sik Telemetry Radio 433Mhx</strong></td><td>Dual-way Telemetry Radio</td><td><strong>1</strong></td></tr><tr><td>11.</td><td><strong>5mm Depron Sheet</strong></td><td>5mm XPS Sheet</td><td><strong>10</strong></td></tr></tbody></table></figure>
+
+
+
+<h3 id="all-previous-design-iterations-can-be-found-on-the-build-log-https-github-com-rahulsarchive-fos-uav-tree-master-build-20log">All previous design iterations can be found on the&nbsp;<a href="https://github.com/rahulsarchive/FOS_UAV/tree/master/Build%20Log">Build Log</a></h3>
+
+
+
+<h2 id="version-4-0-stingray-kfm6">Version 4.0 (Stingray, KFM6)</h2>
+
+
+
+<p><strong>Wingspan: 1250mmm<br>Sweep: 30 deg<br>Root chord: 380mm<br>Tip chord: 220mm<br>AUW: 1300g<br>Power plant: 3536 1400kv motor (9X6 prop)</strong></p>
+
+
+
+<p>The design of the wing was influenced by our previous iteration (Tomcat), depron is a good material for construction. The current model is designed to carry a lot more weight than its predecessors, hence the sweep angle is reduced to 30 deg to account for the change in center of gravity.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/V3.0/1.png"><img src="https://github.com/rahulsarchive/FOS_UAV/raw/master/Images/V3.0/1.png" alt="open uav"/></a></figure>
+
+
+
+<p>The wing is made by stacking the depron sheets on top of each other and glued together. This allows for rapid prototyping and repair in case of a crash. The design can be cut by hand with a ruler and knife, there are very few curves to cut.</p>
+
+
+
+<p>For ease of fabrication, we exported the design as 2D profiles and cut them out on a Shopbot 3-axis mill.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/V4.0/02.jpeg"><img src="https://github.com/rahulsarchive/FOS_UAV/raw/master/Images/V4.0/02.jpeg" alt="open uav"/></a></figure>
+
+
+
+<p>The parts are easy to fit together and designed in a way to prevent the concentration of stress points (Glue joints) in a single place. The two base pieces provide a foundation on which the rest of the pieces are stuck. The joint is reinforced by top plates and the KFm airfoils are stuck on top.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/V4.0/1.jpeg"><img src="https://github.com/rahulsarchive/FOS_UAV/raw/master/Images/V4.0/1.jpeg" alt="open uav"/></a></figure>
+
+
+
+<p>The arrangement provide a easy and rugged frame for the wing.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/V4.0/2.jpeg"><img src="https://github.com/rahulsarchive/FOS_UAV/raw/master/Images/V4.0/2.jpeg" alt="open uav"/></a></figure>
+
+
+
+<p>All the pieces are stuck together with synthetic resin adhesive, a polyurethane glue like Uhu Por is recommended. Sticking the parts together is simple and provides a strong bond, which prevents bending.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/V4.0/5.jpeg"><img src="https://github.com/rahulsarchive/FOS_UAV/raw/master/Images/V4.0/5.jpeg" alt="open uav"/></a></figure>
+
+
+
+<p>The Elevons sanded to give an airfoil shape and attached to the body using Nylon hinges. The Nylon hinges provide smooth travel for the elevons.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/V4.0/6.jpeg"><img src="https://github.com/rahulsarchive/FOS_UAV/raw/master/Images/V4.0/6.jpeg" alt="open uav"/></a></figure>
+
+
+
+<p>The airframe is finished by spray painting and covering it with a layer of tape. The tape provides tensile strength to the body and acts a protective outer shell. Stripes added for visual effect!</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/V4.0/v4.jpeg"><img src="https://github.com/rahulsarchive/FOS_UAV/raw/master/Images/V4.0/v4.jpeg" alt="open uav"/></a></figure>
+
+
+
+<p>The wing flies well, it needs a 5000mah battery and a GoPro camera in the front to balance out the CG but once it’s balanced, it flies like on rails, good glide slope, and stall characteristics. The KFm6 seems to work well with this airframe.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/V4.0/v41.jpeg"><img src="https://github.com/rahulsarchive/FOS_UAV/raw/master/Images/V4.0/v41.jpeg" alt="open uav"/></a></figure>
+
+
+
+<h3 id="flight-test">Flight Test</h3>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Flight Test of Stingray, KFm6 1.3m wing." width="730" height="411" src="https://www.youtube.com/embed/VQGO6bCqtgY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2 id="version-5-0-vtol-tailsitter">Version 5.0 VTOL Tailsitter</h2>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FOS_UAV/blob/master/Images/VTOL/V1.0/Terrawing.png"><img src="https://github.com/rahulsarchive/FOS_UAV/raw/master/Images/VTOL/V1.0/Terrawing.png" alt="open uav"/></a></figure>
+
+
+
+<p>A 1m wingspan 2.5Kg AUW Vertical take-off and landing Tail-sitter aircraft.</p>
+
+
+
+<p>Link to repo –&nbsp;<a href="https://github.com/rahulsarchive/FOS_UAV">https://github.com/rahulsarchive/FOS_UAV</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>FabNC</title>
+		<link>https://www.rahulsrajan.com/fabnc/</link>
+		
+		<dc:creator><![CDATA[rahulsrajan]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2021 11:07:40 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<category><![CDATA[CNC]]></category>
+		<guid isPermaLink="false">https://www.rahulsrajan.com/?p=746</guid>
+
+					<description><![CDATA[A Generalist 3-axis CNC machine based on Roller gantries. This work is part of the Machines that Make project done in collaboration with CBA, MIT, USA. The research work is done at Fab lab Trivandrum is supported by Kerala Startup Mission. FabNC is a generalist 3-axis CNC machine based on the RCT gantry designed by&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>A Generalist 3-axis CNC machine based on Roller gantries.</p>
+
+
+
+<p>This work is part of the Machines that Make project done in collaboration with CBA, MIT, USA. The research work is done at Fab lab Trivandrum is supported by Kerala Startup Mission.</p>
+
+
+
+<div class="wp-block-image"><figure class="alignleft"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/cbapng.png"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/cbapng.png" alt="FabNC"/></a></figure></div>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/logo.svg"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/logo.svg" alt="FabNC"/></a></figure>
+
+
+
+<p></p>
+
+
+
+<p>FabNC is a generalist 3-axis CNC machine based on the RCT gantry designed by Jake Read, MIT. The design uses ball bearings to provide a smooth linear motion. The Gantry design is parametric and can be adopted for a variety of axis lengths and material thickness.</p>
+
+
+
+<p>The current machine is designed with a bed area of about 2X3 feet.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/CAD/MTM2.png"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/CAD/MTM2.png" alt="FabNC"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/CAD/MTM21.png"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/CAD/MTM21.png" alt="FabNC"/></a></figure>
+
+
+
+<h2 id="design-workflow">Design Workflow</h2>
+
+
+
+<ol><li>Figure out the rough machine dimensions you want to build.</li><li>Design each axis to fit the specification (Jake’s RCT Gantries)</li><li>Fit all the axis in a neat configuration.</li><li>Design fixtures, connectors, bolt holes, etc to hold everything in place (keep a note on Rigidity).</li><li>Design fixtures/housings and routing for wires and control electronics.</li><li>Prep design for manufacture (Nester plugin for Fusion 360, Automatic dogbone).</li><li>Switch to CAM layout and create tool paths.</li><li>Mill out all the components and assemble the parts.</li></ol>
+
+
+
+<h3 id="some-useful-lessons-learned">Some useful lessons learned</h3>
+
+
+
+<ol><li>Always start from the Z-axis and build outwards, a lot easier than going the other way.</li><li>Rigidity is your friend.</li><li>Always note hole sizes before milling, eg 4.8mm hole for threading M5 screw.</li><li>Test the runout of your machine by doing a small square cut and measuring the dimensions. Change the bit diameter in Vcarve to offset the runout.</li><li>Double-check the dimensions of your CAD file and check the material thickness before milling.</li><li>Mill plastic with a new single flute end mill. Go for max depth (5-10mm) and min Feed rate (15mm/sec).</li><li>The torsional rigidity of plastics is poor, try to limit the max length of plastic sections.</li><li>Use aluminum sections were convenient to help with Rigidity.</li></ol>
+
+
+
+<h3 id="detailed-information-on-the-build-can-be-found-in-the-build-log-https-github-com-rahulsarchive-fabnc-tree-master-build-20log">Detailed information on the build can be found in the&nbsp;<strong><a href="https://github.com/rahulsarchive/FabNC/tree/master/Build%20Log">Build Log</a></strong></h3>
+
+
+
+<h2 id="fabnc-v1">FabNC V1</h2>
+
+
+
+<p>The completed machine</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/FAB/f1.JPG"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/FAB/f1.JPG" alt="FabNC"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/FAB/f2.JPG"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/FAB/f2.JPG" alt="FabNC"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/FAB/f3.JPG"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/FAB/f3.JPG" alt="FabNC"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/FAB/f4.JPG"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/FAB/f4.JPG" alt="FabNC"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/FAB/f5.JPG"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/FAB/f5.JPG" alt="FabNC"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/FAB/f6.JPG"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/FAB/f6.JPG" alt="FabNC"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/FAB/23.JPG"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/FAB/23.JPG" alt="FabNC"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/FabNC/blob/master/Images/pentest.gif"><img src="https://github.com/rahulsarchive/FabNC/raw/master/Images/pentest.gif" alt="FabNC"/></a></figure>
+
+
+
+<p>Link to Repo &#8211;&nbsp;<a href="https://github.com/rahulsarchive/FabNC">https://github.com/rahulsarchive/FabNC</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>4 Axis Foam Cutter</title>
+		<link>https://www.rahulsrajan.com/4-axis-foam-cutter/</link>
+		
+		<dc:creator><![CDATA[rahulsrajan]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2021 10:44:26 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<category><![CDATA[Drones]]></category>
+		<guid isPermaLink="false">https://www.rahulsrajan.com/?p=743</guid>
+
+					<description><![CDATA[Our goal was to build a UAV out of foam since there will be many crashes involved, we decided to make a device to help us get through the iterations a bit faster. A hot wire cutter is the most efficient way to cut foam. A CNC hot wire cutter is even better! It is&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>Our goal was to build a UAV out of foam since there will be many crashes involved, we decided to make a device to help us get through the iterations a bit faster. A hot wire cutter is the most efficient way to cut foam. A CNC hot wire cutter is even better! It is an awesome tool to have when you are building airplanes out of foam.</p>
+
+
+
+<p>Mechanically, its not complicated to make a CNC Hotwire cutter. All you need is 4 independent linear axes, two horizontal axes, and two vertical axes stacked on top of it. This can be achieved by any means such as linear bearings, smooth rods and also drawer slides. The axes are driven by stepper motors. There are minimal cutting forces involved, the machine only needs to be rigid enough to withstand the tension of the wire stretched between the towers.</p>
+
+
+
+<p>The problem is how to control 4 independent axes at the same time. Most tutorials online are for 3-axis 3D printers. There does not seem to be enough documentation on building a 4-axis machine using easily available parts such as parts from a 3D printer kit and open-source software. We found some people who had done similar projects using Arduino and Grbl, and decided to make a CNC hot wire cutter ourselves and try it out.</p>
+
+
+
+<h2 id="hotwire-cnc-resources">Hotwire CNC Resources</h2>
+
+
+
+<p><a href="http://www.rckeith.co.uk/cnc-hot-wire-foam-cutter/">Hot wire cutter, RcKeith</a><br><a href="https://www.rcgroups.com/forums/showthread.php?2915801-4-Axis-Hot-Wire-CNC-%28Arduino-Ramps1-4%29-Complete-Solution">4-axis cnc hotwire cutter (arduino+Ramps)</a><br><a href="https://github.com/swarfer/winggcode">WingGcode</a><br><a href="http://m-selig.ae.illinois.edu/ads/coord_database.html">Airfoil coordinates database</a><br><a href="http://www.rckeith.co.uk/free-cnc-software-3-and-4-axis/">Free CNC Software</a><br><a href="https://www.rcgroups.com/forums/showthread.php?2388809-4-axis-Arduino-based-CNC-hot-wire-foam-cutter">4-axis Arduino based Hot wire cutter</a><br><a href="http://www.devcad.com/eng/devcncfoam_f1_3.asp">Devcnc Foam cutting software</a><br><a href="https://www.jedicut.com/">Jedicut foam cutting software</a><br><a href="https://sites.google.com/site/foamcuttercnc/software">Arduino Uno based foam cutter</a><br><a href="http://www.jacobs-online.biz/nichrome/NichromeCalc.html">Nichrome wire Application Calculator</a><br><a href="https://all3dp.com/g-code-tutorial-3d-printer-gcode-commands/">G-codes simply explained</a></p>
+
+
+
+<h2 id="hardware">Hardware</h2>
+
+
+
+<ol><li>Plywood (12mm)</li><li>Rails (Steel tubes, Smooth rods)</li><li>Stepper Motors (one for each axis)</li><li>Lead screw (M8 x 600mm, as long as you need the axis to be)</li><li>Ramps 1.4</li><li>A4988 Stepper driver (one for each axis)</li><li>Arduino Mega 2560</li><li>Nichrome wire (30 gauge for smaller builds and 26 gauge for larger ones)</li><li>M8-M5 Motor coupler (M8 for the thread and M5 for the motor shaft)</li></ol>
+
+
+
+<h2 id="software">Software</h2>
+
+
+
+<ol><li>Grbl Hotwire Controller</li><li>4-Axis G-code Generator<ol><li>Wing Gcode</li><li>Jedicut</li><li>FoamXL</li></ol></li></ol>
+
+
+
+<p>We realized that the most difficult part of making a CNC hot wire cutter was the G-code and Controlling systems. So we decided to start there. In our initial research, we found many people using DevFoam and profilli for generating the G-code and using Mach3 to control their machine. But unfortunately, this software was not free, and to run a Mach3 machine you need a parallel port, which is outdated now. Then our search leads to an Arduino based 4-axis cutter developed by Marginally clever which used an Arduino Mega2560 and the Ramps 1.4 CNC shield.</p>
+
+
+
+<p>His page has codes for moving 4 independent axes and a Java-based G-code sender application that could send the G-code sequentially to the Arduino using the serial port. We tried this solution and after some fiddling around, we got it working. Not the easiest or most straight forward method. There is almost no documentation on how to use it.</p>
+
+
+
+<p><a href="http://www.rckeith.co.uk/cnc-hot-wire-foam-cutter/">RcKeith</a>&nbsp;has some good documentation on the machines he built and what he used to control them. Some of them use expensive software and outdated hardware, which might be difficult to find.</p>
+
+
+
+<p>We finally stumbled on a solution that worked, it was posted on a forum in rcgroups.com. Its for a&nbsp;<a href="https://www.rcgroups.com/forums/showthread.php?2915801-4-Axis-Hot-Wire-CNC-%28Arduino-Ramps1-4%29-Complete-Solution">4 axis foam cutter using Arduino + Ramps1.4</a>&nbsp;It addressed the major problems we were having like a control software for the machine and generating 4-axis Gcode to drive the machine.</p>
+
+
+
+<h2 id="building-the-machine">Building the Machine</h2>
+
+
+
+<p>My initial design was based on Rckeith’s foam cutter which used drawer slides as the linear guideways. This seemed like a good idea. They were locally available and rails are rigid without much backlash. The first design was for a machine with two towers on linear slides, with a total travel of the towers for about 20 inches. The machine would be laser cut out of 4mm plywood.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/initialdesign.jpg"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/initialdesign.jpg" alt="4 axis foam cutter"/></a></figure>
+
+
+
+<p>This was well and good until we went to the shop to buy the slides. A 20-inch drawer slide can only travel 10 inches, so in order to get 20 inches of travel we would need a slide of 40 inches, which were just too bulky and expensive for our use and the rails would protrude out of the machine for about 20 inches. Hence we dropped the plans for using drawer slides. Back to the drawing board.</p>
+
+
+
+<p>We started on a new design for a more rigid machine using smooth rods and leadscrews for motion.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/design.png"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/design.png" alt="4 axis foam cutter"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/final%20design.png"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/final%20design.png" alt="4 axis foam cutter"/></a></figure>
+
+
+
+<p>The design is fully parametric. You can change the length of each axes, the diameter of the rods, and even the clearance height of the vertical axis by changing the parameters in the file. On the vertical axes, there are 4 rods to provide some torsional rigidity so the towers would not bend.</p>
+
+
+
+<p>This is the fully redesigned machine using&nbsp;<sup>1</sup>⁄<sub>2</sub>&nbsp;inch steel tubes, 12 mm plywood as the base and M8 lead screws to move the axes.</p>
+
+
+
+<p>All the parts, except the lead screws, were bought locally. The half-inch steel tubes were not designed for linear bearings and there are not dimensionally accurate. So our plan was to 3D print a coupling for it to reduce the friction between wood and steel.</p>
+
+
+
+<p>The design made ready for milling on Shopbot (CNC mill)</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/cutout.png"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/cutout.png" alt="4 axis foam cutter"/></a></figure>
+
+
+
+<p>We cut the design by exporting the 2D DXF sketches and doing the CAM operations in Vcarvepro software. Since this is the initial version we decided to skip the couplers and go with wood on steel. we had to play with the tolerance between the circular hole and the steel tube to get it good enough to move on to the next step.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/intialaxis.jpg"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/intialaxis.jpg" alt="4 axis foam cutter"/></a></figure>
+
+
+
+<p>The first axis looks promising. The steel tubes are press-fitted at the ends to form a rigid structure. The carriage is a bit loose but the motion is a lot smoother when a small amount of lubricant is applied. so we moved on to the vertical axis.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/Vtower.jpg"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/Vtower.jpg" alt="4 axis foam cutter"/></a></figure>
+
+
+
+<p>The vertical axis has two steel tubes to carry the weight and two smaller aluminum tubes to provide torsional rigidity. We are using a stepper motor with an integrated lead screw to avoid using a coupler.</p>
+
+
+
+<p>The final assembled towers. All the rods are press-fit at the ends and loose fit on the steel rods to give a smooth motion.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/Final%20assembly.jpg"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/Final%20assembly.jpg" alt="4 axis foam cutter"/></a></figure>
+
+
+
+<p><strong>Note-</strong>&nbsp;When using sliding surfaces, depending on the material, a phenomenon called&nbsp;<strong>‘stick and slip’</strong>&nbsp;can happen. This would cause the motion to become jagged and cause vibrations. It may also lead to surfaces locking up leading to excessive loads and missed steps when using a stepper motor.</p>
+
+
+
+<p>After the machine was assembled its time to fix the machine on a table, connect all the electronics, and tie the Nichrome wire across the towers.</p>
+
+
+
+<h3 id="connecting-the-electronics">Connecting the Electronics</h3>
+
+
+
+<p>We fixed the machine on a table using clamps. The base is designed to make it easier to use clamps to hold it in place.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/clamp.jpg"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/clamp.jpg" alt=" 4 axis foam cutter assembly"/></a></figure>
+
+
+
+<p>The next step is to connect the electronics to move the motors and configure the machine. We have 4 stepper motors that need to be connected to our Ramps board. The wires need to extend enough to provide enough travel of the axes.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/wiring%20loom.jpg"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/wiring%20loom.jpg" alt="Wiring loom"/></a></figure>
+
+
+
+<p>All the wiring connects to our Ramps board, which is a CNC shield for Arduino Mega2560. The Ramps can support up to 5 stepper motor drivers like the A4988. We are using Nema 17 motors with 200 steps per revolution running at 1/16th micro-stepping, giving us a smooth rotary motion.</p>
+
+
+
+<p>The A4988 stepper drivers can be attached on top of the Ramps, one for each axis. Ensure&nbsp;<strong>proper orientation</strong>&nbsp;of the A4988 chip before attaching to the Ramps board. Each stepper can pull as much as 2 Amps, the stepper drivers have heat sinks to dissipate the heat. The board also has an 11A MOSFET on it to control the temperature of the wire connected to the D8 pin. All the components in the board will get hot, ensure proper cooling is provided.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/ramps.jpg"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/ramps.jpg" alt="Ramps + Arduino Mega2560"/></a></figure>
+
+
+
+<p><strong>IMPORTANT</strong>&nbsp;When the system is powered on, the stepper motors continue to draw current to maintain the holding position. The components like Stepper drivers and Mosfets can get very hot during operation. Do not operate the Ramps board without&nbsp;<strong>active cooling</strong>.</p>
+
+
+
+<p>In the beginning, we ran our machine without active cooling and lost 4 stepper drivers and bricked a Mega2560. After that, we made a base for the board, attached it using spacers, and put a fan to cool the board.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/ramps1.jpg"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/ramps1.jpg" alt="Ramps + Arduino Mega2560"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/ramps2.jpg"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/ramps2.jpg" alt="Ramps + Arduino Mega2560"/></a></figure>
+
+
+
+<p>The board rests on spacers and is cooled by a 12V fan to prevent overheating of the board.</p>
+
+
+
+<h3 id="grbl-hotwire-controller">Grbl Hotwire controller</h3>
+
+
+
+<p>We are using a Grbl control panel developed by&nbsp;<a href="http://github.com/Gerritv/Grbl-Panel/wiki">Garret Visser</a>&nbsp;which was adapted for Hotwire cutting by Daniel Rascio.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/Grbl.jpg"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/Grbl.jpg" alt="Grbl control panel"/></a></figure>
+
+
+
+<p>The panel has Independent jogging control for all axis, including homing along with Gcode graph visualization, and the ability to save your own macros. The Hotwire temperature can be fully controlled using M3/M5 to turn ON/OFF and S”xxx” command to set the voltage output, either manually or via a scroll bar in the software. The hotwire should be connected to the “D8” output and is supplied by the power connected to the “11A” input on Ramps.</p>
+
+
+
+<h3 id="configuring-the-machine">Configuring the Machine</h3>
+
+
+
+<p>Every CNC needs to be properly configured before operating. Since we are using stepper motors in an open-loop system (without feedback) we need to know how far the carriage will move with every revolution of the Stepper motor. This depends on the number of steps per revolution of the motor, the pitch of the lead screw, and the level of micro-stepping you are using.</p>
+
+
+
+<p><strong>steps_per_mm = (motor_steps_per_rev * driver_microstep) / thread_pitch</strong></p>
+
+
+
+<p>After flashing the Megaa2560 with the Grbl8c2MegaRamps file, open the serial monitor and type ‘$$’ to access the&nbsp;<a href="https://github.com/grbl/grbl/wiki/Configuring-Grbl-v0.9">Grbl settings</a>&nbsp;panel. In order to change any value type the $number=value. Eg- $0=100 Once the machine is configured, ensure that the machine moves the exact amount as shown in the controller.</p>
+
+
+
+<h3 id="attaching-the-hotwire">Attaching the Hotwire</h3>
+
+
+
+<p>In order to cut the foam using a hot wire, you need a resistance wire made of a suitable material that can withstand the heat and will have a uniform temperature across the length.</p>
+
+
+
+<p>Nichrome is a suitable material, I have seen some use steel fishing lines. This is a good article for selecting a Nichrome wire for Hotwire cutting. Since our machine will use a wire length of more than 1 meter. we decided to use a 26 gauge wire. It might be a bit too thick for our application. we will also test with a 32 gauge wire and see how it goes.</p>
+
+
+
+<p>The next step is to attach the nichrome wire to the machine since we have 4 independent axes, we cannot just tie both ends of the wire to the towers. The wire needs to have some extension to it, either by means of a spring or a weight attached to the end.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/leftaxis.jpg"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/leftaxis.jpg" alt="hot wire attachment"/></a></figure>
+
+
+
+<p>The hot wire is attached using hoops screws into the wood, these hoops help the wire move back and forth while maintaining the same height. A pulley would have been best, but we wanted to start with something simple and work our way up. In the left axis, one end of the wire is attached to a screw, which is pulled up to maintain a level height at the hoop.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/rightaxis.jpg"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/rightaxis.jpg" alt="hot wire attachment"/></a></figure>
+
+
+
+<p>The other end of the wire is currently attached to the end of a torsion spring we had laying around, which will provide the necessary tension to keep the wire taught and to give some amount of flex so that the wire can extend and be pulled back.</p>
+
+
+
+<h3 id="generating-the-g-code">Generating the G-code</h3>
+
+
+
+<h4 id="wing-g-code-generator">Wing G-code Generator</h4>
+
+
+
+<p><a href="https://github.com/swarfer/winggcode">Wing G-code Generator</a>&nbsp;is a program to generate XYUV G-code for hotwire cutting model airplane wings. It runs on python 2.7 and can also integrate with LinuxCNC’s Axis interface. There is also an&nbsp;<a href="http://swarfer.co.za/rc/wire/index.php">online version</a></p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/winggcode.PNG"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/winggcode.PNG" alt="Wing Gcode generator"/></a></figure>
+
+
+
+<p>It allows you to enter the parameters of the wing such as root chord, tip chord, Sweep, gantry length, and even support washout. It has a database of airfoils in&nbsp;<strong>.dat</strong>&nbsp;format. New airfoils can be imported in the same way.</p>
+
+
+
+<h4 id="jedicut-2-4">Jedicut 2.4</h4>
+
+
+
+<p>Jedicut is a cool piece of software in that it can do both CAD/CAM and also act as a machine controller. Thought the machine controller needs a PC with the old parallel port interface. But it also has a plugin to generate the G-code. It is not the easiest to configure. Some of the options and error messages are in french, but if you sit with it for some time, you can get it working.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/jedicut.PNG"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/jedicut.PNG" alt="Jedicut 4 axis g code"/></a></figure>
+
+
+
+<p>It has lots of features like cutting wizard to help you do swept wings and compensate for wire kerf by adding a skin thickness. It can but more than wing profiles, it can cut out lettering and other shapes also.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/jedi2.PNG"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/jedi2.PNG" alt="Jedicut 4 axis g code"/></a></figure>
+
+
+
+<p>*<strong>Note-</strong>&nbsp;Wing g-code generates G-codes in Absolute mode which works on Grbl without any issues, but Jedicut generates G-code in incremental mode. We had difficulty when first getting it to work, where the machine would just move back and forth. If this happens, Edit the G-code to remove unnecessary lines in the header.*</p>
+
+
+
+<p><em>Both Wing G-code and Jedicut generate G-code with some Grbl unsupported codes in the header, The controller will show in the monitor when such errors happen. Edit the G-code and remove unnecessary lines of code.</em></p>
+
+
+
+<h3 id="setting-the-feed-rate-and-temperature">Setting the Feed rate and temperature</h3>
+
+
+
+<p>Unlike conventional milling, the wire cuts by melting the plastic surrounding it, and when the tool stays in one position for some length of time, the surrounding material keeps melting away. This increases the kerf of the cut and causes dimensional inaccuracies. There are two variables that affect the kerf of the cut.</p>
+
+
+
+<ol><li>Cutting Feed rate.</li><li>Temperature of wire.</li></ol>
+
+
+
+<p>The <strong>Cutting Feed rate</strong> is the speed with which the wire cuts through the material. mostly denotes in mm/sec. The faster the speed the lesser the kerf, but the higher the temperature required, and also tension in the wire has to be sufficient to withstand the cutting forces. Good starting speeds are around 350mm/min to 500mm/min.</p>
+
+
+
+<p>The&nbsp;<strong>Temperature</strong>&nbsp;of the wire must be a bit higher than the melting point of the foam you are cutting. Ideally, you want to cut with just the radiant heat whereby the wire dose not actually touches the material but cuts in front of it. The temperature is governed by the amount of current which flows through the wire, which is determined by its voltage. There is software that allows for PWM control of the wire to heat is just right at the moments to optimize the cutting feed rate.</p>
+
+
+
+<p>The temperature of the wire is determined by the square of the current times the resistance.</p>
+
+
+
+<p>If you are using Nichrome wire,</p>
+
+
+
+<p><a href="http://www.jacobs-online.biz/nichrome/NichromeCalc.html">Nichrome wire Application Calculator</a></p>
+
+
+
+<p>This is a cool application that can help you determine the temperature of the wire depending on the length and the voltage applied. For our setup with a wire length of 850mm, we applied a voltage of 26V and cut at a feed rate of 350mm/min. This gave us a good finish and low kerf.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/maiden1.gif"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/maiden1.gif" alt="4 axis foam cutter"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/core2.jpg"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/core2.jpg" alt="cnc hot wire cut foam"/></a></figure>
+
+
+
+<h3 id="the-cutting-process">The Cutting process</h3>
+
+
+
+<p>The Process starts from the design, which is exported as a dxf and turned into G-code by one of the software. The machine is turned on and calibrated, the material is placed on the workbench and the origin is now set. Turn on the hot-wire, run the G-code file, and watch the machine do the work for you.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/4AxisFoamCutter/blob/master/Images/wingcut.jpeg"><img src="https://github.com/rahulsarchive/4AxisFoamCutter/raw/master/Images/wingcut.jpeg" alt="cnc hotwire 4axis foam wing cut"/></a></figure>
+
+
+
+<p>Link to the repo –&nbsp;<a href="https://github.com/rahulsarchive/4AxisFoamCutter">https://github.com/rahulsarchive/4AxisFoamCutter</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Monarch-230-Quad</title>
+		<link>https://www.rahulsrajan.com/monarch-230-quad/</link>
+		
+		<dc:creator><![CDATA[rahulsrajan]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2021 10:39:13 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<category><![CDATA[Drones]]></category>
+		<guid isPermaLink="false">https://www.rahulsrajan.com/?p=739</guid>
+
+					<description><![CDATA[Aviation has been a passion of mine for a long time. I love things that fly, and I wanted to build one for myself, so I decided to start with Quadcopters. Since I’ll be new to flying them I decide to make one that is safe for a beginner to fly. Hence the propellers need&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>Aviation has been a passion of mine for a long time. I love things that fly, and I wanted to build one for myself, so I decided to start with Quadcopters. Since I’ll be new to flying them I decide to make one that is safe for a beginner to fly. Hence the propellers need to be protected from damage, both to themselves and to others.</p>
+
+
+
+<p>The best way to do that is by keeping the props in a protected cage. I’m not the first person to come up with such an idea, there are many other drone frames with protected props. Like the lumenier Danaus.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://user-images.githubusercontent.com/32607702/36538000-e438bd04-17f7-11e8-8b94-3f6a631cde2a.jpg"><img src="https://user-images.githubusercontent.com/32607702/36538000-e438bd04-17f7-11e8-8b94-3f6a631cde2a.jpg" alt="Lumenier Danaus"/></a></figure>
+
+
+
+<p>Taking inspiration from the Danaus, I set about to design something similar. Enter the Monarch (like the butterfly)</p>
+
+
+
+<figure class="wp-block-image"><a href="https://user-images.githubusercontent.com/32607702/36538106-4942fd5e-17f8-11e8-913d-8cbc4152a469.jpg"><img src="https://user-images.githubusercontent.com/32607702/36538106-4942fd5e-17f8-11e8-913d-8cbc4152a469.jpg" alt="monarch"/></a></figure>
+
+
+
+<p>Designed using Rhino CAD, it&#8217;s a 230 size quad with ample space for all the electronics including a camera and VTX. Designed in 2D as I’ll be laser cutting the frame.</p>
+
+
+
+<p>The frame is laser cut from 4mm plywood. I used 3mm for the top to reduce weight.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://user-images.githubusercontent.com/32607702/36538109-49bfbe02-17f8-11e8-80f3-83edc3b2a1de.jpeg"><img src="https://user-images.githubusercontent.com/32607702/36538109-49bfbe02-17f8-11e8-80f3-83edc3b2a1de.jpeg" alt="monarch"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://user-images.githubusercontent.com/32607702/36538113-4aaf6a88-17f8-11e8-91ea-69c1d6066ec0.jpeg"><img src="https://user-images.githubusercontent.com/32607702/36538113-4aaf6a88-17f8-11e8-91ea-69c1d6066ec0.jpeg" alt="monarch"/></a></figure>
+
+
+
+<p>The frame along with the nylon standoffs comes to about 170 grams. Wiring the ESC and motors to the power distribution board.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://user-images.githubusercontent.com/32607702/36538105-48fd4a0c-17f8-11e8-8874-96bac5494cac.jpeg"><img src="https://user-images.githubusercontent.com/32607702/36538105-48fd4a0c-17f8-11e8-8874-96bac5494cac.jpeg" alt="monarchpdb"/></a></figure>
+
+
+
+<p>Adding the flight controller, I’m using a Spracing F3 flight control board, running betaflight.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://user-images.githubusercontent.com/32607702/36538111-4a37cd98-17f8-11e8-8e12-0d28a0813c6a.jpeg"><img src="https://user-images.githubusercontent.com/32607702/36538111-4a37cd98-17f8-11e8-8e12-0d28a0813c6a.jpeg" alt="monarchFC"/></a></figure>
+
+
+
+<p>The receiver is attached to the bottom end of the frame with zip ties. I’m using a Flysky 8 channel ppm receiver. It does not have an SBUS output hence I have to connect 8 wires (PWM) to the FC.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://user-images.githubusercontent.com/32607702/36538115-4b29cfee-17f8-11e8-830a-24e9445d89d9.jpeg"><img src="https://user-images.githubusercontent.com/32607702/36538115-4b29cfee-17f8-11e8-830a-24e9445d89d9.jpeg" alt="monarchrx"/></a></figure>
+
+
+
+<p>I fixed the propellers and closed up the frame with the top part using nylon standoffs (Caution: These are not the strongest, they come apart in the event of a crash).</p>
+
+
+
+<figure class="wp-block-image"><a href="https://user-images.githubusercontent.com/32607702/36538114-4aec6c62-17f8-11e8-9c89-5bdfc5550fc8.jpeg"><img src="https://user-images.githubusercontent.com/32607702/36538114-4aec6c62-17f8-11e8-9c89-5bdfc5550fc8.jpeg" alt="monarchfinal"/></a></figure>
+
+
+
+<p>I added a simple foam landing gear to the quad to protect it in the case of a rough landing.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://user-images.githubusercontent.com/32607702/36538110-49f956b2-17f8-11e8-8796-05c5098dc207.jpeg"><img src="https://user-images.githubusercontent.com/32607702/36538110-49f956b2-17f8-11e8-8796-05c5098dc207.jpeg" alt="monarchland"/></a></figure>
+
+
+
+<p>I attached a 3800mah battery on top of the drone using zip ties. Finally, she’s ready for the maiden flight. The AUW of the drone is about 750g with a 3800mah battery. I have not yet added a camera and VTX to it, I plan to do it once the drone is properly setup.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://user-images.githubusercontent.com/32607702/36538112-4a758840-17f8-11e8-919b-ef9673d4ddc9.jpeg"><img src="https://user-images.githubusercontent.com/32607702/36538112-4a758840-17f8-11e8-919b-ef9673d4ddc9.jpeg" alt="monarch"/></a></figure>
+
+
+
+<h3 id="specifications">Specifications</h3>
+
+
+
+<p>Spec 4X Racestar 2204 racing edition motors<br>4X BL-Heli 28A ESC<br>1X Mateck power distribution board<br>1X SP racing F3 flight controller<br>4X Kingkong 5040 props<br>Frsky TH9X radio with 8Ch receiver<br>3800mah 25C lipo battery</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>VR-Archery</title>
+		<link>https://www.rahulsrajan.com/vr-archery/</link>
+		
+		<dc:creator><![CDATA[rahulsrajan]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2021 06:58:22 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<category><![CDATA[VR]]></category>
+		<guid isPermaLink="false">https://www.rahulsrajan.com/?p=730</guid>
+
+					<description><![CDATA[Converting an Archery Bow into a VR Game Controller. The haptic feedback provided by the bow enhances the experience for the user in the VR game. The problem, Using a real bow with tight strings means when the bow is pulled back a lot of energy is stored. This is released when we let go&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>Converting an Archery Bow into a VR Game Controller. The haptic feedback provided by the bow enhances the experience for the user in the VR game.</p>
+
+
+
+<h3>The problem,</h3>
+
+
+
+<p>Using a real bow with tight strings means when the bow is pulled back a lot of energy is stored. This is released when we let go of the string, usually, the arrow absorbs the energy and travels away from the bow, but in the case of a stationary arrow the energy transmitted to the arrow must be absorbed back by the bow.</p>
+
+
+
+<h3>The solution</h3>
+
+
+
+<p>The way this problem is solved without affecting the user experience too much is to use air resistance to absorb most of the energy. This is accomplished by converting the arrow into a piston and putting it inside a cylinder. When we move the piston back and forth the change in air pressure provides resistance to motion.</p>
+
+
+
+<p>The amount of air resistance is proportional to the square of the velocity. So loose fitting pistons are ideal, else it would be like a syringe.</p>
+
+
+
+<h2 id="version-1">Version 1</h2>
+
+
+
+<h4 id="66-bow-with-a-32mm-piston-and-cylinder">66” Bow with a 32mm piston and cylinder</h4>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v11.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v11.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v12.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v12.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v13.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v13.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v14.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v14.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v15.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v15.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/V1.gif"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/V1.gif" alt="VR Bow"/></a></figure>
+
+
+
+<p>Larger bow needs a bigger piston and cylinder arrangement. The only problem was the larger bow was heavy and it would tire out the players after 2 mins of playing. So we switched to a lighter bow that would give the same feel.</p>
+
+
+
+<h2 id="version-2">Version 2</h2>
+
+
+
+<h4 id="55-bow-with-a-25mm-piston-and-cylinder">55” Bow with a 25mm Piston and Cylinder</h4>
+
+
+
+<p>This is a kids bow with 3d printed supports for the piston and the cylinder. The arrow was replaced by 10mm carbon tubes to provide rigid motion and supports for the HTC vive tracker are printed on the arrow and the bow to track the players movement.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v21.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v21.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v22.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v22.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v23.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v23.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v24.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v24.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v25.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v25.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v26.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v26.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v27.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v27.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="https://www.rahulsrajan.com/wp-content/uploads/2021/02/IMG_20191221_123551-1024x768.jpg" alt="" class="wp-image-731" srcset="https://www.rahulsrajan.com/wp-content/uploads/2021/02/IMG_20191221_123551-1024x768.jpg 1024w, https://www.rahulsrajan.com/wp-content/uploads/2021/02/IMG_20191221_123551-300x225.jpg 300w, https://www.rahulsrajan.com/wp-content/uploads/2021/02/IMG_20191221_123551-768x576.jpg 768w, https://www.rahulsrajan.com/wp-content/uploads/2021/02/IMG_20191221_123551-1536x1152.jpg 1536w, https://www.rahulsrajan.com/wp-content/uploads/2021/02/IMG_20191221_123551-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Piston rings as seen on automobile engines were used to provide abrasion resistance and tight air seals without close tolerances.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/V2.gif"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/V2.gif" alt="VR Bow"/></a></figure>
+
+
+
+<p>Link to repo &#8211;&nbsp;<a href="https://github.com/rahulsarchive/VR-Archery">https://github.com/rahulsarchive/VR-Archery</a></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CNC Drag knife/roller</title>
+		<link>https://www.rahulsrajan.com/cnc-drag-knife-roller/</link>
+		
+		<dc:creator><![CDATA[rahulsrajan]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2021 06:32:09 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<guid isPermaLink="false">https://www.rahulsrajan.com/?p=726</guid>
+
+					<description><![CDATA[Most of us use our CNC milling machines to mill wood, plastics, and even metal, but sometimes we would like to cut very thin materials like vinyl, cardboard, foam board, etc which cannot be milled. This is where a Drag knife comes in handy. A Drag knife is a tool that attaches to the spindle&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>Most of us use our CNC milling machines to mill wood, plastics, and even metal, but sometimes we would like to cut very thin materials like vinyl, cardboard, foam board, etc which cannot be milled. This is where a Drag knife comes in handy.</p>
+
+
+
+<p>A Drag knife is a tool that attaches to the spindle of your mill and traces the path it is moving. The unique thing of a drag knife is that it is able to self-orient itself to be tangential to the cutting like. This is because the blade is kept at a slight angle, creating an offset from the center of the spindle. This angle is known as the caster angle.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/cncdragknife/blob/master/Images/castor.jpg"><img src="https://github.com/rahulsarchive/cncdragknife/raw/master/Images/castor.jpg" alt="caster"/></a></figure>
+
+
+
+<p>This principle is used in anything from automobiles to office chairs to provide directional stability. In our case, the blade is kept at a slight negative caster angle, so that it is dragging behind the center of the shaft. Due to this offset, whenever the spindle changes direction, a slight torque is exerted on the blade, which will keep it pointed at a tangent to the direction of travel.</p>
+
+
+
+<p>There are many professional drag knifes available, most common of which would be the donke cnc drag knife. But these are unjustifiably expensive to buy. A need for a DIY solution was felt.</p>
+
+
+
+<h2 id="version-1-0">Version 1.0</h2>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/cncdragknife/blob/master/Images/v1.png"><img src="https://github.com/rahulsarchive/cncdragknife/raw/master/Images/v1.png" alt="cnc drag knife"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/cncdragknife/blob/master/Images/v2.jpeg"><img src="https://github.com/rahulsarchive/cncdragknife/raw/master/Images/v2.jpeg" alt="cnc drag knife"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/cncdragknife/blob/master/Images/v3.jpeg"><img src="https://github.com/rahulsarchive/cncdragknife/raw/master/Images/v3.jpeg" alt="cnc drag knife"/></a></figure>
+
+
+
+<p>This is the first design. The body is 3 pieces, which is design to be joined together by screws to provide easy access to change the blades. It is designed to carry a number 11 surgical scalpel blade. A bearing is provided to help the blade swivel and it fits into a 1/2inch collet. I went with a very large blade offset of 10mm. My spindle was large and it has a lot of momentum while turning.</p>
+
+
+
+<p>unfortunately, I did not test the design, as after assembling it I realized one problem. The bearing had too much play and the knife would swing back and forth about 5mm about the Z-axis. This design is a no go.</p>
+
+
+
+<h2 id="version-2-0">Version 2.0</h2>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/cncdragknife/blob/master/Images/dk5.png"><img src="https://github.com/rahulsarchive/cncdragknife/raw/master/Images/dk5.png" alt="cnc drag knife"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/cncdragknife/blob/master/Images/dk(1).jpg"><img src="https://github.com/rahulsarchive/cncdragknife/raw/master/Images/dk(1).jpg" alt="cnc drag knife"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/cncdragknife/blob/master/Images/dk(2).jpg"><img src="https://github.com/rahulsarchive/cncdragknife/raw/master/Images/dk(2).jpg" alt="cnc drag knife"/></a></figure>
+
+
+
+<p>A simpler design without a bearing on it. The knife is two parts, the main body and the knife holder, which come together with screws. This design allows simpler fabrication and testing and avoids unnecessary components. The only question being, does the blade have enough torque to turn the spindle? It turns out it does.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/cncdragknife/blob/master/Images/dk(3).jpg"><img src="https://github.com/rahulsarchive/cncdragknife/raw/master/Images/dk(3).jpg" alt="cnc drag knife"/></a></figure>
+
+
+
+<p>This knife cuts beautifully. It’s able to make sharp cuts and turns tangent to the cutline.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/cncdragknife/blob/master/Images/dk(4).jpg"><img src="https://github.com/rahulsarchive/cncdragknife/raw/master/Images/dk(4).jpg" alt="cnc drag knife"/></a></figure>
+
+
+
+<h2 id="drag-roller">Drag Roller</h2>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/cncdragknife/blob/master/Images/dr1.png"><img src="https://github.com/rahulsarchive/cncdragknife/raw/master/Images/dr1.png" alt="cnc drag knife"/></a></figure>
+
+
+
+<p>A device similar to a drag knife, but instead of cutting the roller depresses the material forming a crease line. This line can be used to bend the material. For example, when making a cardboard box, the roller can be used to depress the edges that need to be folded and then using the knife cut out the outer edges.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/cncdragknife/blob/master/Images/dr2.jpeg"><img src="https://github.com/rahulsarchive/cncdragknife/raw/master/Images/dr2.jpeg" alt="cnc drag knife"/></a></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

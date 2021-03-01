@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>VR &#8211; Rahul S Rajan</title>
+	<atom:link href="https://www.rahulsrajan.com/tag/vr/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.rahulsrajan.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Mar 2021 06:58:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+
+<image>
+	<url>https://www.rahulsrajan.com/wp-content/uploads/2021/02/Rahulabout-150x150.jpg</url>
+	<title>VR &#8211; Rahul S Rajan</title>
+	<link>https://www.rahulsrajan.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>VR-Archery</title>
+		<link>https://www.rahulsrajan.com/vr-archery/</link>
+		
+		<dc:creator><![CDATA[rahulsrajan]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2021 06:58:22 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<category><![CDATA[VR]]></category>
+		<guid isPermaLink="false">https://www.rahulsrajan.com/?p=730</guid>
+
+					<description><![CDATA[Converting an Archery Bow into a VR Game Controller. The haptic feedback provided by the bow enhances the experience for the user in the VR game. The problem, Using a real bow with tight strings means when the bow is pulled back a lot of energy is stored. This is released when we let go&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>Converting an Archery Bow into a VR Game Controller. The haptic feedback provided by the bow enhances the experience for the user in the VR game.</p>
+
+
+
+<h3>The problem,</h3>
+
+
+
+<p>Using a real bow with tight strings means when the bow is pulled back a lot of energy is stored. This is released when we let go of the string, usually, the arrow absorbs the energy and travels away from the bow, but in the case of a stationary arrow the energy transmitted to the arrow must be absorbed back by the bow.</p>
+
+
+
+<h3>The solution</h3>
+
+
+
+<p>The way this problem is solved without affecting the user experience too much is to use air resistance to absorb most of the energy. This is accomplished by converting the arrow into a piston and putting it inside a cylinder. When we move the piston back and forth the change in air pressure provides resistance to motion.</p>
+
+
+
+<p>The amount of air resistance is proportional to the square of the velocity. So loose fitting pistons are ideal, else it would be like a syringe.</p>
+
+
+
+<h2 id="version-1">Version 1</h2>
+
+
+
+<h4 id="66-bow-with-a-32mm-piston-and-cylinder">66” Bow with a 32mm piston and cylinder</h4>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v11.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v11.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v12.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v12.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v13.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v13.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v14.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v14.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v15.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v15.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/V1.gif"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/V1.gif" alt="VR Bow"/></a></figure>
+
+
+
+<p>Larger bow needs a bigger piston and cylinder arrangement. The only problem was the larger bow was heavy and it would tire out the players after 2 mins of playing. So we switched to a lighter bow that would give the same feel.</p>
+
+
+
+<h2 id="version-2">Version 2</h2>
+
+
+
+<h4 id="55-bow-with-a-25mm-piston-and-cylinder">55” Bow with a 25mm Piston and Cylinder</h4>
+
+
+
+<p>This is a kids bow with 3d printed supports for the piston and the cylinder. The arrow was replaced by 10mm carbon tubes to provide rigid motion and supports for the HTC vive tracker are printed on the arrow and the bow to track the players movement.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v21.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v21.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v22.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v22.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v23.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v23.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v24.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v24.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v25.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v25.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v26.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v26.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/v27.jpg"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/v27.jpg" alt="VR Bow"/></a></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="https://www.rahulsrajan.com/wp-content/uploads/2021/02/IMG_20191221_123551-1024x768.jpg" alt="" class="wp-image-731" srcset="https://www.rahulsrajan.com/wp-content/uploads/2021/02/IMG_20191221_123551-1024x768.jpg 1024w, https://www.rahulsrajan.com/wp-content/uploads/2021/02/IMG_20191221_123551-300x225.jpg 300w, https://www.rahulsrajan.com/wp-content/uploads/2021/02/IMG_20191221_123551-768x576.jpg 768w, https://www.rahulsrajan.com/wp-content/uploads/2021/02/IMG_20191221_123551-1536x1152.jpg 1536w, https://www.rahulsrajan.com/wp-content/uploads/2021/02/IMG_20191221_123551-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Piston rings as seen on automobile engines were used to provide abrasion resistance and tight air seals without close tolerances.</p>
+
+
+
+<figure class="wp-block-image"><a href="https://github.com/rahulsarchive/VR-Archery/blob/master/Images/V2.gif"><img src="https://github.com/rahulsarchive/VR-Archery/raw/master/Images/V2.gif" alt="VR Bow"/></a></figure>
+
+
+
+<p>Link to repo &#8211;&nbsp;<a href="https://github.com/rahulsarchive/VR-Archery">https://github.com/rahulsarchive/VR-Archery</a></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
